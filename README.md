@@ -2,6 +2,8 @@
 
 Python voice bot that calls the Pretty Good AI assessment line (`+1-805-439-8008`), simulates patient scenarios, logs transcripts, and supports bug-finding workflows.
 
+Loom walkthrough: `https://www.loom.com/share/4e22d71231ad45d48b89c9c7dd670e38`
+
 ## What This Repo Contains
 - `run_webhook.py` - runner that starts the local server, opens ngrok, and places calls via Twilio
 - `webhook_server.py` - FastAPI webhook that handles Twilio speech callbacks and generates patient replies
