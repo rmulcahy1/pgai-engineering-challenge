@@ -65,7 +65,3 @@ List scenarios:
 - Per-call transcript logs are written to `transcripts/`.
 - Batch runs also write `calls_index_*.tsv` mapping scenario -> Twilio Call SID -> status.
 - Transcript lines include UTC timestamps and role labels (`SYSTEM`, `AGENT`, `PATIENT`).
-
-## Important
-- Do not commit `.env` or any secrets.
-- Calls for the assessment should go only to `+1-805-439-8008`.
