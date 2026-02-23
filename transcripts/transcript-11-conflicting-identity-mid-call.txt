@@ -1,0 +1,18 @@
+[2026-02-22T20:23:35.308151+00:00] SYSTEM: call started
+[2026-02-22T20:23:35.308240+00:00] SYSTEM: scenario 11: Conflicting Identity Mid Call
+[2026-02-22T20:23:42.044568+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T20:23:42.644125+00:00] PATIENT: Hi, this is Mark Johnson, born March 12, 1980.
+[2026-02-22T20:24:03.855280+00:00] AGENT: Hi. This is pit at Point Orthopedics. Am I speaking with John? How may I help you today?
+[2026-02-22T20:24:04.879234+00:00] PATIENT: Sorry, I actually meant to say Sarah Lee, born July 5, 1992.
+[2026-02-22T20:24:22.030279+00:00] AGENT: Got it, just to confirm, I had your name, as Sarah, Lee and your date of birth as July 5th 1992.
+[2026-02-22T20:24:22.790083+00:00] PATIENT: Yes, that’s correct. I need to reschedule my appointment.
+[2026-02-22T20:24:45.226069+00:00] AGENT: Let me confirm your phone number is 877-635-9026 and your date of birth is July 5th 1992.
+[2026-02-22T20:24:46.044640+00:00] PATIENT: Actually, my phone number is 877-635-9036.
+[2026-02-22T20:25:07.651530+00:00] AGENT: I can't receive further right now but I can make sure our Clinic support team follows up with you, please hold while I document this for our support team.
+[2026-02-22T20:25:08.470788+00:00] PATIENT: Thank you, I’ll wait for their call.
+[2026-02-22T20:25:15.128244+00:00] AGENT: Understood.
+[2026-02-22T20:25:15.946559+00:00] PATIENT: Thanks for your help, I appreciate it.
+[2026-02-22T20:25:26.288841+00:00] AGENT: Product take care.
+[2026-02-22T20:25:26.288952+00:00] PATIENT: Thanks so much. Goodbye.
+[2026-02-22T20:25:26.289003+00:00] SYSTEM: call ended (agent goodbye)
+[2026-02-22T20:25:28.030402+00:00] SYSTEM: call ended (twilio status: completed)

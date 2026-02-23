@@ -1,0 +1,27 @@
+[2026-02-22T23:53:16.750563+00:00] SYSTEM: call started
+[2026-02-22T23:53:16.750725+00:00] SYSTEM: scenario 51: Duplicate Booking Guard
+[2026-02-22T23:53:22.704966+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T23:53:23.523697+00:00] PATIENT: Hi, I’d like to book a check-up appointment for next Monday at 10 AM.
+[2026-02-22T23:53:42.674032+00:00] AGENT: Hi John. How may I help you today?
+[2026-02-22T23:53:43.545213+00:00] PATIENT: I want to book a check-up appointment for next Monday at 10 AM.
+[2026-02-22T23:53:56.497503+00:00] AGENT: Got it. Can you please provide your date of birth?
+[2026-02-22T23:53:57.312210+00:00] PATIENT: Sure, it’s March 5, 1980.
+[2026-02-22T23:54:05.460728+00:00] AGENT: Got it, John.
+[2026-02-22T23:54:06.228928+00:00] PATIENT: Please go ahead and book it for me.
+[2026-02-22T23:54:20.144246+00:00] AGENT: You clarify if you need a follow-up consultation a procedure or something else, here are the main options. New patient consultation, follow-up consultation procedure, appointment, physical therapy session.
+[2026-02-22T23:54:20.790452+00:00] PATIENT: Just a regular check-up appointment, please.
+[2026-02-22T23:54:34.213500+00:00] AGENT: Thanks. John, a regular checkup would be a follow-up consultation, you'd like it next Monday at 10:00 a.m.
+[2026-02-22T23:54:35.103114+00:00] PATIENT: Yes, please book it now. Also, can I book another check-up right after at 10:30 AM?
+[2026-02-22T23:54:54.847612+00:00] AGENT: John I checked for next Monday at 10:00 a.m. but the earliest available, follow-up, appointments are on Tuesday at 2:00 p.m. or 4:00 p.m.
+[2026-02-22T23:54:55.790372+00:00] PATIENT: Please book the Tuesday 2:00 p.m. follow-up, and try to also book the 2:30 p.m. slot right after.
+[2026-02-22T23:55:15.101872+00:00] AGENT: Got it. I'll book The Tuesday. 2:00 p.m. follow up for you. There isn't a 2:30 p.m. slot available but I'll double check for any openings right after 2:00 p.m.
+[2026-02-22T23:55:16.094448+00:00] PATIENT: Please go ahead and book the 2:00 p.m. appointment only then.
+[2026-02-22T23:55:26.969223+00:00] AGENT: Your follow-up appointment is set for Tuesday.
+[2026-02-22T23:55:27.695101+00:00] PATIENT: Thanks, please confirm that no overlapping appointments were booked.
+[2026-02-22T23:55:41.708431+00:00] AGENT: Got it only the 2 p.m. follow-up appointment on Tuesday. February 24th was booked for you.
+[2026-02-22T23:55:42.995600+00:00] PATIENT: Thank you for confirming, I appreciate it.
+[2026-02-22T23:55:49.979672+00:00] AGENT: You're welcome, John.
+[2026-02-22T23:55:50.804268+00:00] PATIENT: Thanks for your help today!
+[2026-02-22T23:56:01.018909+00:00] AGENT: Of course, John have a great day.
+[2026-02-22T23:56:01.736083+00:00] PATIENT: Thank you, you too!
+[2026-02-22T23:56:02.768922+00:00] SYSTEM: call ended (twilio status: completed)

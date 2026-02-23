@@ -1,0 +1,29 @@
+[2026-02-22T20:04:39.097543+00:00] SYSTEM: call started
+[2026-02-22T20:04:39.097830+00:00] SYSTEM: scenario 3: Cancel Appointment
+[2026-02-22T20:04:43.952379+00:00] AGENT: This call may be recorded for quality and training purposes, but Espanol.
+[2026-02-22T20:04:44.669396+00:00] PATIENT: Hi, I’d like to cancel my appointment and get a confirmation number, please.
+[2026-02-22T20:04:53.986861+00:00] AGENT: Am I speaking with John?
+[2026-02-22T20:04:54.909651+00:00] PATIENT: Yes, this is John.
+[2026-02-22T20:05:05.664648+00:00] AGENT: Got it. John. Can you please provide your date of birth?
+[2026-02-22T20:05:06.889603+00:00] PATIENT: Sure, it’s January 15, 1985.
+[2026-02-22T20:05:14.573595+00:00] AGENT: Got it on.
+[2026-02-22T20:05:15.389124+00:00] PATIENT: Thank you, please go ahead and cancel my appointment.
+[2026-02-22T20:05:27.370249+00:00] AGENT: Let me check your upcoming appointment so I can process the cancellation.
+[2026-02-22T20:05:28.087407+00:00] PATIENT: Thank you, I appreciate it.
+[2026-02-22T20:05:39.091243+00:00] AGENT: you have an appointment scheduled for Tuesday, March 10th at 10:30 a.m.
+[2026-02-22T20:05:39.977204+00:00] PATIENT: Yes, please cancel that appointment and provide me with the cancellation confirmation number.
+[2026-02-22T20:05:57.070948+00:00] AGENT: Understood, can you tell me the reason for canceling, your appointment? For example, illness, Transportation issues, Insurance changes,
+[2026-02-22T20:05:57.763939+00:00] PATIENT: I’m canceling due to a scheduling conflict.
+[2026-02-22T20:06:07.920856+00:00] AGENT: Got it. You want to cancel due to a scheduling conflict?
+[2026-02-22T20:06:08.640979+00:00] PATIENT: Yes, that's correct. Please proceed.
+[2026-02-22T20:06:24.434474+00:00] AGENT: Your appointment for Tuesday, March 10th at 10:30 a.m. with duvie. Hower at Pivot Point, Orthopedics has been canceled due to a scheduling conflict
+[2026-02-22T20:06:25.431921+00:00] PATIENT: Thank you, could you please provide me with the cancellation confirmation number?
+[2026-02-22T20:06:44.072676+00:00] AGENT: There is no separate cancellation confirmation number. But your appointment for March 10th at 10:30 a.m. has been successfully canceled. If you need written confirmation or want to reschedule, just let me know.
+[2026-02-22T20:06:44.992941+00:00] PATIENT: Please send me a written confirmation of the cancellation.
+[2026-02-22T20:07:02.091969+00:00] AGENT: I'll let the clinic support team know you need written. Confirmation of your canceled appointment. They will get back to you as soon as they can.
+[2026-02-22T20:07:03.025629+00:00] PATIENT: Thank you, I appreciate your help.
+[2026-02-22T20:07:16.535568+00:00] AGENT: Got it. Your request has been sent and the clinic staff will follow up with written confirmation soon. Let me know if you need anything else.
+[2026-02-22T20:07:17.347886+00:00] PATIENT: Thanks again, I’ll wait for their confirmation.
+[2026-02-22T20:07:31.391763+00:00] AGENT: Okay, the political senior confirmation. As soon as possible have a great day John.
+[2026-02-22T20:07:32.197484+00:00] PATIENT: Thank you, have a great day!
+[2026-02-22T20:07:33.119410+00:00] SYSTEM: call ended (twilio status: completed)

@@ -1,0 +1,37 @@
+[2026-02-22T23:27:52.719283+00:00] SYSTEM: call started
+[2026-02-22T23:27:52.719420+00:00] SYSTEM: scenario 46: After Hours Scheduling
+[2026-02-22T23:27:58.762139+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T23:27:59.478649+00:00] PATIENT: Hi, do you have any after-hours appointments available this week?
+[2026-02-22T23:28:07.548847+00:00] AGENT: With John.
+[2026-02-22T23:28:08.386165+00:00] PATIENT: Yes, could you please check if there’s any availability after 5 PM on Wednesday or Thursday?
+[2026-02-22T23:28:21.959691+00:00] AGENT: Got it. Can you please provide your date of birth? I'll check the schedule for you.
+[2026-02-22T23:28:25.849508+00:00] PATIENT: Sure, it’s March 12, 1985.
+[2026-02-22T23:28:37.060034+00:00] AGENT: The birthday doesn't match our records, but for demo purposes, I'll accept it.
+[2026-02-22T23:28:37.923270+00:00] PATIENT: Thank you, could you please let me know if there’s any availability after 5 PM on those days?
+[2026-02-22T23:29:01.158441+00:00] AGENT: Got it before. I check. What type of appointment? Would you like to book? Here? Are your options. New patient consultation, follow-up consultation procedure appointment or physical therapy session.
+[2026-02-22T23:29:02.065901+00:00] PATIENT: I’m looking to book a follow-up consultation after 5 PM on Wednesday or Thursday, please.
+[2026-02-22T23:29:12.287770+00:00] AGENT: Understood.
+[2026-02-22T23:29:13.207943+00:00] PATIENT: Please let me know if you have any available follow-up slots after 5 PM on those days.
+[2026-02-22T23:29:36.042969+00:00] AGENT: Let me check for available. Follow-up consultation slots after 5:00 p.m. on Wednesday and Thursday, 1 moment, I filed a follow-up consultation slots on Wednesday, February 25th, at 1:00, p.m. and 2 p.m.
+[2026-02-22T23:29:38.505236+00:00] PATIENT: It looks like there aren’t any after 5 PM slots available; are there any options for early morning or weekend appointments instead?
+[2026-02-22T23:29:55.500765+00:00] AGENT: Got it, let me check for early morning or weekend. Follow-up consultation slots.
+[2026-02-22T23:29:56.239300+00:00] PATIENT: Thanks, please let me know what early morning or weekend slots are available.
+[2026-02-22T23:30:11.986984+00:00] AGENT: The earliest available follow-up slots are Thursday, February 26th at 8:00 a.m. 9:00 a.m. and 10:00 a.m. with Dr. Duvi Hower.
+[2026-02-22T23:30:12.772040+00:00] PATIENT: I’ll take the 9:00 a.m. slot on Thursday, February 26th, please.
+[2026-02-22T23:30:27.961422+00:00] AGENT: You're requesting Thursday, February 26th at 9:00 a.m. with Dr. Dudy Howser for a follow-up consultation
+[2026-02-22T23:30:29.600736+00:00] PATIENT: Yes, that’s correct—please book me for 9:00 a.m. on Thursday, February 26th with Dr. Howser.
+[2026-02-22T23:30:47.624118+00:00] AGENT: Your follow-up consultation is booked for Thursday, February 26th at 9:00 a.m. with Dr. Doney Howser.
+[2026-02-22T23:30:48.645746+00:00] PATIENT: Thank you for booking the appointment; I appreciate your help.
+[2026-02-22T23:31:00.833818+00:00] AGENT: Got it. Would you like a text reminder for your appointment?
+[2026-02-22T23:31:01.775693+00:00] PATIENT: Yes, please send me a text reminder. Thank you!
+[2026-02-22T23:31:17.888880+00:00] AGENT: A text reminder for your appointment has been sent to your phone if you need anything else, just let me know.
+[2026-02-22T23:31:18.744166+00:00] PATIENT: Actually, could you please check if there are any after-hours or weekend slots available instead?
+[2026-02-22T23:31:35.761828+00:00] AGENT: Sure. Just to confirm are you looking to switch your appointment to an after-hours or weekend slot? If 1 be able
+[2026-02-22T23:31:37.017661+00:00] PATIENT: Yes, please switch to the earliest after-hours or weekend slot available.
+[2026-02-22T23:31:56.949261+00:00] AGENT: There are no weekend or after hours. Follow-up slots available, right now? Would you like to keep your Thursday 9:00 a.m. appointment or try for another time?
+[2026-02-22T23:31:57.973640+00:00] PATIENT: I’ll keep the Thursday 9:00 a.m. appointment then, thank you.
+[2026-02-22T23:32:14.868697+00:00] AGENT: Your Thursday 9:00 a.m. appointment with Dr. Doogie Howser is confirmed if you need to make any changes, just let me know.
+[2026-02-22T23:32:15.585351+00:00] PATIENT: Thank you for confirming, I appreciate your help!
+[2026-02-22T23:32:26.337931+00:00] AGENT: You're all set have a great day.
+[2026-02-22T23:32:27.054529+00:00] PATIENT: Thanks again, you too!
+[2026-02-22T23:32:28.079772+00:00] SYSTEM: call ended (twilio status: completed)

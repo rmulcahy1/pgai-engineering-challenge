@@ -1,0 +1,55 @@
+[2026-02-23T00:04:03.604952+00:00] SYSTEM: call started
+[2026-02-23T00:04:03.605084+00:00] SYSTEM: scenario 54: Wrong Provider Name Recovery
+[2026-02-23T00:04:10.261481+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-23T00:04:11.475177+00:00] PATIENT: Hi, I’d like to schedule an appointment with Dr. Smith, please.
+[2026-02-23T00:04:24.786172+00:00] AGENT: Got it. Can you please provide your date of birth?
+[2026-02-23T00:04:26.297779+00:00] PATIENT: Sure, my date of birth is January 12, 1985.
+[2026-02-23T00:04:48.084988+00:00] AGENT: I don't see a doctor Smith at Pivot. Point Orthopedics. We have Dr. Dudy Howser Dr. Doug Ross, and Dr. Adam burrer.
+[2026-02-23T00:04:49.222256+00:00] PATIENT: Okay, can I please schedule with Dr. Doug Ross instead?
+[2026-02-23T00:05:02.132051+00:00] AGENT: Just to confirm. Did you mean Dr? Dub, Ross. If so what type of appointment would you like to schedule?
+[2026-02-23T00:05:03.960881+00:00] PATIENT: Yes, Dr. Doug Ross, and I need a consultation appointment, please.
+[2026-02-23T00:05:18.088987+00:00] AGENT: Got it. Would this be a new patient consultation or a follow-up consultation with Dr? Doug Ross.
+[2026-02-23T00:05:19.011743+00:00] PATIENT: It will be a new patient consultation, please.
+[2026-02-23T00:05:40.808444+00:00] AGENT: Understood let me check available times for a new patient consultation with Dr. Doug Ross 1 moment while I fetch the openings. There are no openings with Dr. Doug Ross for a new patient consultation in the next week.
+[2026-02-23T00:05:41.634795+00:00] PATIENT: Can you please check availability with Dr. Dudy Howser instead?
+[2026-02-23T00:05:57.578162+00:00] AGENT: I believe you met, Dr. Dudy Howser, let me check available time for a new patient consultation with Dr. Dudy Howser 1 moment while I look that up.
+[2026-02-23T00:05:59.596891+00:00] PATIENT: Yes, please go ahead and check the available times for Dr. Dudy Howser.
+[2026-02-23T00:06:17.677655+00:00] AGENT: There are no available openings with Dr. Dudy Howser for a new patient consultation in the next week. Would you like me to check for later dates or do you have a specific month in mind?
+[2026-02-23T00:06:18.635152+00:00] PATIENT: Please check for any openings in the following month, thank you.
+[2026-02-23T00:06:41.166685+00:00] AGENT: Got it. I'll check for new patient consultation openings with Dr. Dudy Howser in March. This 1 while I look that up the next available. New patient consultation with Dr. Dudy Howser is on Thursday, March 5th.
+[2026-02-23T00:06:41.948147+00:00] PATIENT: Please go ahead and book me for March 5th with Dr. Howser.
+[2026-02-23T00:06:57.498281+00:00] AGENT: Just to confirm you'd like to book a new patient consultation with Dr. Doogie Howser on Thursday March 5th at 1:30 p.m., is that correct?
+[2026-02-23T00:06:58.263771+00:00] PATIENT: Yes, please go ahead and book that appointment.
+[2026-02-23T00:07:12.286041+00:00] AGENT: Got it. What is the main reason for your visit? So I can include it with your appointment booking.
+[2026-02-23T00:07:13.066138+00:00] PATIENT: I'm scheduling a general check-up.
+[2026-02-23T00:07:34.533353+00:00] AGENT: Your appointment is set for a new patient consultation with Dr. Duvie Howser on Thursday March 5th at 1:30 p.m. please, bring a government-issued photo ID and your insurance card. Would you like a text reminder for this appointment?
+[2026-02-23T00:07:35.227152+00:00] PATIENT: Yes, please send me a text reminder.
+[2026-02-23T00:07:49.412371+00:00] AGENT: You'll get a text reminder soon at your number ending in 9026. Is there anything else I can help you with today?
+[2026-02-23T00:07:50.192808+00:00] PATIENT: Can you also check if Dr. House has any openings next week?
+[2026-02-23T00:08:06.840483+00:00] AGENT: We don't have a doctor house at Pivot Point Orthopedics. Would you like me to check openings with Dr. Duvi Howser Dr. Doug Roth or Dr. Adam bicker. For next week.
+[2026-02-23T00:08:07.793094+00:00] PATIENT: Yes, please check Dr. Roth’s availability next week.
+[2026-02-23T00:08:19.640374+00:00] AGENT: Got it. Let me check Dr. Doug Ross's openings for next week.
+[2026-02-23T00:08:20.335086+00:00] PATIENT: Please check Dr. Roth’s availability, not Dr. Ross.
+[2026-02-23T00:08:35.084267+00:00] AGENT: Just to clarify, Dr. Doug Ross is the only provider with the last name, Ross at Pivot Point Orthopedics.
+[2026-02-23T00:08:36.303049+00:00] PATIENT: I meant Dr. Roth, not Ross—could you please check Dr. Roth’s schedule?
+[2026-02-23T00:08:49.951728+00:00] AGENT: I understand you're asking about Dr. Doug Roth. He is the only doctor Ross at Pivot Point Orthopedics.
+[2026-02-23T00:08:50.777125+00:00] PATIENT: Please check Dr. Roth’s schedule, not Dr. Ross.
+[2026-02-23T00:09:04.373776+00:00] AGENT: To clarify, we only have Dr. Doug Roth at pitot Point Orthopedics. There is no other Dr. Ross listed.
+[2026-02-23T00:09:05.211002+00:00] PATIENT: Yes, please check Dr. Doug Roth’s availability for next week.
+[2026-02-23T00:09:18.009259+00:00] AGENT: There are no available openings with Dr. Doug Ross, for next week.
+[2026-02-23T00:09:19.101137+00:00] PATIENT: Please check availability with another nearby orthopedic provider next week.
+[2026-02-23T00:09:38.088970+00:00] AGENT: Up to the point Orthopedics. The other Orthopedic providers are doctor, Doogie Howser and Dr. Adam Bricker, would you like me to check next week's? Availability with Dr. Bricker.
+[2026-02-23T00:09:39.066986+00:00] PATIENT: Yes, please check Dr. Bricker’s availability for next week.
+[2026-02-23T00:09:52.261552+00:00] AGENT: Got it. Let me check Dr. Adam bricker's, openings for a new patient consultation next week.
+[2026-02-23T00:09:53.338191+00:00] PATIENT: Thank you, please go ahead and check Dr. Bricker’s openings.
+[2026-02-23T00:10:06.107761+00:00] AGENT: Dr. Adam Bricker has an opening for a new patient consultation on Friday.
+[2026-02-23T00:10:06.854924+00:00] PATIENT: Please book the Friday appointment with Dr. Bricker.
+[2026-02-23T00:10:20.310386+00:00] AGENT: Just to confirm you'd like to book a new patient consultation with Dr. Adam Bricker on Friday March 6th at 9:45 a.m.
+[2026-02-23T00:10:21.096299+00:00] PATIENT: Yes, please book the appointment for me.
+[2026-02-23T00:10:34.749033+00:00] AGENT: Got it. What is the main reason for your visit? So I can include it with your appointment booking.
+[2026-02-23T00:10:35.365963+00:00] PATIENT: I need to discuss persistent knee pain.
+[2026-02-23T00:10:49.804998+00:00] AGENT: Your appointment with Dr. Adam Brooker is set for Friday, March. 6th at 9:45 a.m. to discuss your knee pain.
+[2026-02-23T00:10:50.604700+00:00] PATIENT: Thank you, but could you also check if Dr. Bricker is available earlier in the week?
+[2026-02-23T00:10:50.604806+00:00] PATIENT: Thanks, that answers my questions. Goodbye.
+[2026-02-23T00:10:50.604859+00:00] SYSTEM: call ended (max turns)
+[2026-02-23T00:10:54.105870+00:00] SYSTEM: call ended (twilio status: completed)

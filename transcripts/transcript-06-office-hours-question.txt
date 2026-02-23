@@ -1,0 +1,25 @@
+[2026-02-22T20:10:09.675956+00:00] SYSTEM: call started
+[2026-02-22T20:10:09.676037+00:00] SYSTEM: scenario 6: Office Hours Question
+[2026-02-22T20:10:14.608779+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T20:10:15.786002+00:00] PATIENT: Hi, can you tell me your office hours, if you’re open on weekends, and your holiday closure policy?
+[2026-02-22T20:10:31.552108+00:00] AGENT: Got are you asking about our insurance policy or something else related to Clinic policies? Let me know what you need and I'll help
+[2026-02-22T20:10:32.734562+00:00] PATIENT: I’m asking about your office hours, weekend availability, and what holidays you close on.
+[2026-02-22T20:10:53.828723+00:00] AGENT: Porter Orthopedics is open Monday through Friday. Our hours are 9:00 a.m. to 4:00 p.m. on Monday, Tuesday and Thursday 12:00 p.m. to 7:00 p.m. on, Wednesday and 9 a.m. to 12:00 p.m. on Friday.
+[2026-02-22T20:10:54.545235+00:00] PATIENT: Thanks, are you open on weekends at all, and which holidays do you close?
+[2026-02-22T20:11:03.863397+00:00] AGENT: We are not open on weekends.
+[2026-02-22T20:11:04.784449+00:00] PATIENT: Thanks, and which holidays do you close for?
+[2026-02-22T20:11:14.721417+00:00] AGENT: I don't have a full list of specific, holidays, the clinic closes for
+[2026-02-22T20:11:16.766527+00:00] PATIENT: Could you please send me the list of holidays the clinic is closed for?
+[2026-02-22T20:11:27.005943+00:00] AGENT: I don't have a list of specific holidays. The clinic is closed for.
+[2026-02-22T20:11:28.029827+00:00] PATIENT: Could you please check with your manager and send me the holiday closure list?
+[2026-02-22T20:11:46.566323+00:00] AGENT: I don't have direct access to a holiday closure list, or a manager I can let our Clinic support team know, you'd like this information and I'll get back to you as soon as they can. Would you like me to do that?
+[2026-02-22T20:11:47.281817+00:00] PATIENT: Yes, please do, I’d appreciate that.
+[2026-02-22T20:12:01.542878+00:00] AGENT: I'll let our Clinic support team know, you need the holiday closure list. Please stay on the line while I document your request.
+[2026-02-22T20:12:02.436981+00:00] PATIENT: Thank you, I’ll wait for your update.
+[2026-02-22T20:12:17.899197+00:00] AGENT: Why transfer is not available right now? Since this is a demo, click in a real situation. I would have connected you to a human for this request.
+[2026-02-22T20:12:18.823186+00:00] PATIENT: Okay, I understand—I'll wait for your update then.
+[2026-02-22T20:12:30.938597+00:00] AGENT: Got it. The clinic support team will follow up with you as soon as they can about the holiday closure list.
+[2026-02-22T20:12:31.748725+00:00] PATIENT: Thank you for your help—I look forward to hearing from them soon.
+[2026-02-22T20:12:45.549781+00:00] AGENT: You're all set the clinic team will reach out with the information. Have a great day.
+[2026-02-22T20:12:46.368143+00:00] PATIENT: Thanks again, have a great day too!
+[2026-02-22T20:12:47.358502+00:00] SYSTEM: call ended (twilio status: completed)

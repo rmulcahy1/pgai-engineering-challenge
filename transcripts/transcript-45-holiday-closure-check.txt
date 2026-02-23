@@ -1,0 +1,27 @@
+[2026-02-22T23:24:26.757268+00:00] SYSTEM: call started
+[2026-02-22T23:24:26.757365+00:00] SYSTEM: scenario 45: Holiday Closure Check
+[2026-02-22T23:24:32.567169+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T23:24:33.475720+00:00] PATIENT: Hi, I’d like to book an appointment on July 4th; is the office open that day or do you have alternative dates?
+[2026-02-22T23:24:47.784229+00:00] AGENT: Got it before I can check availability. Can you please provide your date of birth?
+[2026-02-22T23:24:48.465749+00:00] PATIENT: Sure, it’s March 12, 1985.
+[2026-02-22T23:25:05.087886+00:00] AGENT: The birthday doesn't match our records but for demo purposes, I'll accept it. Could you tell me which date you're asking about? Or do you want to hear about other available dates for appointments?
+[2026-02-22T23:25:05.863587+00:00] PATIENT: I’m asking about July 4th specifically; is the office open that day or closed?
+[2026-02-22T23:25:16.963970+00:00] AGENT: Pivot Point Orthopedics is closed on July 4th.
+[2026-02-22T23:25:18.162177+00:00] PATIENT: Thanks for letting me know; what’s the next closest available appointment after July 4th?
+[2026-02-22T23:25:35.873320+00:00] AGENT: Got it. What type of appointment do you need new patient consultation? Follow up, procedure or physical therapy? This helps me find the right options for you.
+[2026-02-22T23:25:36.944892+00:00] PATIENT: I need a new patient consultation, please.
+[2026-02-22T23:25:50.276986+00:00] AGENT: Understood. Let me check for the next available. New patient consultation after July 4th.
+[2026-02-22T23:25:51.180748+00:00] PATIENT: Thanks, please let me know the earliest date available for a new patient consultation after July 4th.
+[2026-02-22T23:26:07.982766+00:00] AGENT: The earliest available new patient consultation after July 4th is Monday? July 6th at 9:00 a.m. with Dr. Adam Bricker
+[2026-02-22T23:26:08.962890+00:00] PATIENT: Please book the appointment for July 6th at 9:00 a.m. with Dr. Bricker.
+[2026-02-22T23:26:18.123318+00:00] AGENT: Got it.
+[2026-02-22T23:26:18.983005+00:00] PATIENT: Thank you, please confirm the booking and any cancellation policies.
+[2026-02-22T23:26:45.465988+00:00] AGENT: Your new patient consultation is confirmed for Monday. July 6th at 9:00 a.m. with Dr. Adam Bricker, if you need to cancel, just let us know anytime. Before your appointment, please bring a government-issued photo ID in your insurance card.
+[2026-02-22T23:26:47.493331+00:00] PATIENT: Thank you, can you also confirm if the office is open on July 4th or if there are any closure rules for the holiday?
+[2026-02-22T23:27:05.805689+00:00] AGENT: The office is closed on July 4th for the holiday. If you ever need to check future holiday closures, just ask and I can confirm for you.
+[2026-02-22T23:27:07.560748+00:00] PATIENT: Thanks for the info, could you please share emergency contact details or alternatives available on the holiday?
+[2026-02-22T23:27:26.620981+00:00] AGENT: If you have a medical emergency on a holiday or anytime, please call 911 right away for not urgent matters. You can leave a message with a clinic and they will get back to you when the office reopens
+[2026-02-22T23:27:27.325065+00:00] PATIENT: Got it, thank you for the emergency info and confirming the holiday closure.
+[2026-02-22T23:27:44.220944+00:00] AGENT: You're all set. If you have any more questions or need to make changes, just let me know. Have a great day.
+[2026-02-22T23:27:44.900895+00:00] PATIENT: Thanks for your help, I appreciate it!
+[2026-02-22T23:27:45.756172+00:00] SYSTEM: call ended (twilio status: completed)

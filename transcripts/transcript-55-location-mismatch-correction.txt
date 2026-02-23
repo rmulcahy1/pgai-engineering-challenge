@@ -1,0 +1,17 @@
+[2026-02-23T00:11:03.728670+00:00] SYSTEM: call started
+[2026-02-23T00:11:03.728781+00:00] SYSTEM: scenario 55: Location Mismatch Correction
+[2026-02-23T00:11:09.467930+00:00] AGENT: This call may be recorded for quality and training purposes, but Espanol.
+[2026-02-23T00:11:10.174940+00:00] PATIENT: Hi, can you tell me if your office is the one located on Main Street?
+[2026-02-23T00:11:18.349294+00:00] AGENT: speaking with John,
+[2026-02-23T00:11:19.065435+00:00] PATIENT: Yes, is that the office at 123 Main Street?
+[2026-02-23T00:11:32.124876+00:00] AGENT: Our office is at to the point Orthopedics located at 220 Athens Way, Nashville.
+[2026-02-23T00:11:32.859124+00:00] PATIENT: Oh, I was looking for the Main Street location, but thanks for the info!
+[2026-02-23T00:11:48.790672+00:00] AGENT: Got it, if you need anything else about Pivot, Point Orthopedics, or want to schedule an appointment, just let me know how can I help you today?
+[2026-02-23T00:11:49.809315+00:00] PATIENT: Thanks, can you please confirm if you have any offices near 123 Main Street?
+[2026-02-23T00:12:07.934997+00:00] AGENT: We only have a location at 220 Athens Way in Nashville. There isn't an office near 123. Main Street, is there anything else I can help with?
+[2026-02-23T00:12:08.856176+00:00] PATIENT: Thanks for confirming, I’ll reach out to the Athens Way office then.
+[2026-02-23T00:12:21.246150+00:00] AGENT: Got it. If you need to schedule an appointment or have any questions, just let me know.
+[2026-02-23T00:12:21.962888+00:00] PATIENT: Great, I’ll contact the Athens Way office soon. Thanks!
+[2026-02-23T00:12:26.878328+00:00] AGENT: [no speech captured]
+[2026-02-23T00:12:27.492656+00:00] PATIENT: Thank you for your help!
+[2026-02-23T00:12:27.582152+00:00] SYSTEM: call ended (twilio status: completed)

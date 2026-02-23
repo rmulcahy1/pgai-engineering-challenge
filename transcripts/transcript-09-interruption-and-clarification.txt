@@ -1,0 +1,17 @@
+[2026-02-22T20:17:03.913985+00:00] SYSTEM: call started
+[2026-02-22T20:17:03.914081+00:00] SYSTEM: scenario 9: Interruption and Clarification
+[2026-02-22T20:17:09.744275+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T20:17:10.664782+00:00] PATIENT: Sorry to interrupt, but I just want to confirm—are you saying the call will be recorded twice?
+[2026-02-22T20:17:31.973680+00:00] AGENT: Can you please provide your date of birth?
+[2026-02-22T20:17:32.887177+00:00] PATIENT: No, I meant the recording part; my date of birth is 03/15/1985.
+[2026-02-22T20:17:42.619117+00:00] AGENT: Got it, John.
+[2026-02-22T20:17:43.540685+00:00] PATIENT: No, I just wanted to clarify about the recording, not give my birthdate yet.
+[2026-02-22T20:17:57.155337+00:00] AGENT: I missed a John, are you asking if this call is being recorded or do you have a different question about recording?
+[2026-02-22T20:17:57.873503+00:00] PATIENT: I just want to confirm if this call will be recorded once or twice.
+[2026-02-22T20:18:09.137881+00:00] AGENT: This call is only recorded once for quality and training purposes.
+[2026-02-22T20:18:10.261532+00:00] PATIENT: Thank you for clarifying, I just wanted to be sure.
+[2026-02-22T20:18:21.939121+00:00] AGENT: Got it. If you need anything else, just let me know.
+[2026-02-22T20:18:22.857935+00:00] PATIENT: Thanks, that’s all I needed.
+[2026-02-22T20:18:32.280264+00:00] AGENT: I have a great day.
+[2026-02-22T20:18:32.893918+00:00] PATIENT: Thanks, you too!
+[2026-02-22T20:18:34.012554+00:00] SYSTEM: call ended (twilio status: completed)

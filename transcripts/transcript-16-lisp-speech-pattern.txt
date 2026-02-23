@@ -1,0 +1,37 @@
+[2026-02-22T20:38:01.502454+00:00] SYSTEM: call started
+[2026-02-22T20:38:01.502546+00:00] SYSTEM: scenario 16: Lisp Speech Pattern
+[2026-02-22T20:38:08.263915+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T20:38:09.387713+00:00] PATIENT: Hello, I wouwd wike to make an appointment pwease.
+[2026-02-22T20:38:16.659562+00:00] AGENT: speaking with John,
+[2026-02-22T20:38:17.682426+00:00] PATIENT: Yes, pwease, if thith week is avaiwabwe.
+[2026-02-22T20:38:29.049873+00:00] AGENT: Can you please provide your date of birth?
+[2026-02-22T20:38:29.810558+00:00] PATIENT: Yesh, ith May 12, 1980.
+[2026-02-22T20:38:36.422941+00:00] AGENT: Got it, John.
+[2026-02-22T20:38:37.166112+00:00] PATIENT: Can you pwease shedule it for Thursday?
+[2026-02-22T20:38:46.508445+00:00] AGENT: Sure. John. What type of appointment? Would you like to schedule for Thursday?
+[2026-02-22T20:38:47.336303+00:00] PATIENT: Yesh, pwease, a reguwar check-up.
+[2026-02-22T20:38:55.468503+00:00] AGENT: And procedure or physical therapy session.
+[2026-02-22T20:38:56.185051+00:00] PATIENT: No, juht a reguwar check-up, pwease.
+[2026-02-22T20:39:06.986851+00:00] AGENT: At Pivot Point Orthopedics, we offer new patient consultations.
+[2026-02-22T20:39:07.756466+00:00] PATIENT: Oh, ith just a reguwar check-up, not a new patient visit, pwease.
+[2026-02-22T20:39:25.794054+00:00] AGENT: Got it. Would you like to book a follow-up consultation a procedure appointment or a physical therapy session for your regular check-up? If you're not sure I can help explain the options.
+[2026-02-22T20:39:26.598828+00:00] PATIENT: Juth a reguwar check-up appointment, pwease.
+[2026-02-22T20:39:42.882876+00:00] AGENT: A regular check-up at Pivot. Point Orthopedics is called a follow-up consultation. Is that what you'd like to schedule for Thursday?
+[2026-02-22T20:39:43.800936+00:00] PATIENT: Yesh, pwease, a follow-up consultation on Thuwsday.
+[2026-02-22T20:39:52.098172+00:00] AGENT: Got it.
+[2026-02-22T20:39:52.825110+00:00] PATIENT: Thank you, cuwld you tell me what time it's at?
+[2026-02-22T20:40:04.489567+00:00] AGENT: We have openings for a follow-up consultation on Tuesday at 11:00 a.m. with Dr. Duvie, Howser
+[2026-02-22T20:40:05.306970+00:00] PATIENT: Thath time wooks good, pwease book it.
+[2026-02-22T20:40:22.408090+00:00] AGENT: Just to confirm, you'd like to book the follow-up consultation on Tuesday, February 24th at 11:00 a.m. with Dr. Duvie Howser, is that correct?
+[2026-02-22T20:40:23.149333+00:00] PATIENT: Yes, that’th correct, pwease go ahead and book it.
+[2026-02-22T20:40:43.811723+00:00] AGENT: Your follow-up consultation is booked for Tuesday, February 24th. At 11:00 a.m. with Dr. Dudy Howser please bring a government-issued photo ID and your insurance card to the appointment.
+[2026-02-22T20:40:44.731803+00:00] PATIENT: Thankk you so much, I’ll make shure to bwing those!
+[2026-02-22T20:40:55.825580+00:00] AGENT: Got it. If you'd like a text reminder for your appointment. Just let me know.
+[2026-02-22T20:40:56.614484+00:00] PATIENT: Yes, pwease send the text weminder.
+[2026-02-22T20:41:06.890783+00:00] AGENT: A text reminder for your appointment is on its way to your phone.
+[2026-02-22T20:41:07.889519+00:00] PATIENT: Thankk you, I really appweciate it!
+[2026-02-22T20:41:18.884981+00:00] AGENT: You're welcome. If you need help in the future just give us a call, have a great day.
+[2026-02-22T20:41:19.855167+00:00] PATIENT: Okay, thankk you! Have a good day!
+[2026-02-22T20:41:23.337189+00:00] AGENT: [no speech captured]
+[2026-02-22T20:41:24.362474+00:00] PATIENT: Bye, take care!
+[2026-02-22T20:41:24.363563+00:00] SYSTEM: call ended (twilio status: completed)

@@ -1,0 +1,15 @@
+[2026-02-22T21:44:31.225076+00:00] SYSTEM: call started
+[2026-02-22T21:44:31.225154+00:00] SYSTEM: scenario 27: No DOB Or Documents Available
+[2026-02-22T21:44:37.627561+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T21:44:39.572498+00:00] PATIENT: Hi, I don’t have a driver’s license or social security number—can I still make an appointment?
+[2026-02-22T21:44:52.420213+00:00] AGENT: I can connect you to our patient support team.
+[2026-02-22T21:44:54.058947+00:00] PATIENT: Yes, please, I just want to know what I can do to book without those.
+[2026-02-22T21:45:06.550236+00:00] AGENT: Got it. Let me check. What information is needed to book your appointment for moment.
+[2026-02-22T21:45:07.473521+00:00] PATIENT: I can give my name, birthdate, and phone number.
+[2026-02-22T21:45:21.357966+00:00] AGENT: I can't receive further right now but I can make sure our Clinic support team follows up with you.
+[2026-02-22T21:45:22.218220+00:00] PATIENT: Thank you, I appreciate your help.
+[2026-02-22T21:45:37.880029+00:00] AGENT: Got it for this demo, I can't transfer you, but in a real Clinic, a team member would help you directly. If you have other questions about pit, a point Orthopedics or any general info, just let me know.
+[2026-02-22T21:45:38.580265+00:00] PATIENT: That sounds good, thanks for checking!
+[2026-02-22T21:45:54.169316+00:00] AGENT: Okay, if you need anything else from Pivot Point Orthopedics, just ask have a great day.
+[2026-02-22T21:45:55.601951+00:00] PATIENT: Thanks, I’ll reach out if I have more questions.
+[2026-02-22T21:45:56.011455+00:00] SYSTEM: call ended (twilio status: completed)

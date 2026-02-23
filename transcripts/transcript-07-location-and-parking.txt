@@ -1,0 +1,17 @@
+[2026-02-22T20:12:54.766394+00:00] SYSTEM: call started
+[2026-02-22T20:12:54.766494+00:00] SYSTEM: scenario 7: Location and Parking
+[2026-02-22T20:13:00.823460+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T20:13:01.834990+00:00] PATIENT: Hi, can you please tell me the office address and where I can park?
+[2026-02-22T20:13:09.865685+00:00] AGENT: speaking with John,
+[2026-02-22T20:13:10.636583+00:00] PATIENT: Hi John, could you please provide the exact address and parking information?
+[2026-02-22T20:13:28.541662+00:00] AGENT: The address for Pivot Point Orthopedics is 220 Athens, Way Nashville. I can't provide parking details but the clinic staff can help if you need more information.
+[2026-02-22T20:13:29.308806+00:00] PATIENT: Thanks, John; could you please transfer me to someone who can help with parking details?
+[2026-02-22T20:13:45.043358+00:00] AGENT: I can connect you to our patient support team. However, I'm a pretty good Ai and can do many of the things in operator can.
+[2026-02-22T20:13:46.065900+00:00] PATIENT: Please connect me to the patient support team for parking details.
+[2026-02-22T20:13:57.637561+00:00] AGENT: Live transfer is not available right now since this is a demo Clinic.
+[2026-02-22T20:13:58.564726+00:00] PATIENT: Okay, thanks for the info, I’ll ask the clinic staff when I arrive.
+[2026-02-22T20:14:11.311587+00:00] AGENT: Got it. If you need anything else about your visit or appointments? Just let me know.
+[2026-02-22T20:14:12.438411+00:00] PATIENT: Will do, thank you for your help!
+[2026-02-22T20:14:16.628298+00:00] AGENT: [no speech captured]
+[2026-02-22T20:14:17.548587+00:00] PATIENT: Thanks, John, have a great day!
+[2026-02-22T20:14:17.626300+00:00] SYSTEM: call ended (twilio status: completed)

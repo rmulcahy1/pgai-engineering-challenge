@@ -1,0 +1,31 @@
+[2026-02-22T20:01:21.456425+00:00] SYSTEM: call started
+[2026-02-22T20:01:21.456507+00:00] SYSTEM: scenario 2: Reschedule Existing Visit
+[2026-02-22T20:01:27.294043+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T20:01:28.317461+00:00] PATIENT: Hi, I need to reschedule my appointment; what’s the nearest available date?
+[2026-02-22T20:01:37.533378+00:00] AGENT: Am I speaking with John?
+[2026-02-22T20:01:38.456295+00:00] PATIENT: Yes, this is John.
+[2026-02-22T20:01:49.515656+00:00] AGENT: Can you please provide your date of birth?
+[2026-02-22T20:01:50.435716+00:00] PATIENT: Sure, it’s July 15, 1985.
+[2026-02-22T20:02:02.212577+00:00] AGENT: Thought it John. The birthday doesn't match our records, but for demo purposes, I'll accept it.
+[2026-02-22T20:02:03.098175+00:00] PATIENT: Sorry about that, it’s actually July 25, 1985.
+[2026-02-22T20:02:18.596499+00:00] AGENT: No worries. John for demo purposes, I'll accept that. What can I help you with today?
+[2026-02-22T20:02:19.365715+00:00] PATIENT: I need to reschedule my appointment to the nearest available date, please.
+[2026-02-22T20:02:32.773736+00:00] AGENT: Got it, let me check your upcoming appointment and find the soonest available date for you.
+[2026-02-22T20:02:33.475009+00:00] PATIENT: Thank you, I appreciate your help.
+[2026-02-22T20:02:57.471911+00:00] AGENT: You're welcome. There are no openings before your current appointment on Thursday March 5th at 11:15. A.m. would you like to look for dates after that?
+[2026-02-22T20:02:58.139246+00:00] PATIENT: Yes, please check for the earliest available date after March 5th.
+[2026-02-22T20:03:06.328283+00:00] AGENT: Got it.
+[2026-02-22T20:03:07.264695+00:00] PATIENT: Please let me know the earliest date available after March 5th.
+[2026-02-22T20:03:18.134305+00:00] AGENT: The earliest available appointment after March 5th.
+[2026-02-22T20:03:18.855300+00:00] PATIENT: Could you please tell me what date and time that is?
+[2026-02-22T20:03:30.632535+00:00] AGENT: sure, the earliest available slot is Tuesday, March 10th at 10:30 a.m.
+[2026-02-22T20:03:32.479102+00:00] PATIENT: That works, please reschedule my appointment to Tuesday, March 10th at 10:30 a.m.
+[2026-02-22T20:03:50.155664+00:00] AGENT: Just to confirm, you want to move your new patient consultation to Tuesday, March 10th at 10:30 a.m. with Dr. Dubia Howser, is that correct?
+[2026-02-22T20:03:51.015761+00:00] PATIENT: Yes, that's correct. Please go ahead and reschedule it.
+[2026-02-22T20:04:07.023931+00:00] AGENT: Your appointment is now set for Tuesday, March 10th at 10:30 a.m. with Dr. Doogie Howser
+[2026-02-22T20:04:07.846662+00:00] PATIENT: Thank you for rescheduling; I appreciate your help.
+[2026-02-22T20:04:15.074710+00:00] AGENT: You're all set John.
+[2026-02-22T20:04:16.201013+00:00] PATIENT: Thank you for your help!
+[2026-02-22T20:04:27.872717+00:00] AGENT: Got it. If you need anything else, just let me know. Have a great day.
+[2026-02-22T20:04:28.694338+00:00] PATIENT: Will do, thanks again!
+[2026-02-22T20:04:29.922078+00:00] SYSTEM: call ended (twilio status: completed)

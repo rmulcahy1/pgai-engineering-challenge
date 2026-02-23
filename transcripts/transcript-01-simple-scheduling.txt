@@ -1,0 +1,31 @@
+[2026-02-22T19:57:50.204061+00:00] SYSTEM: call started
+[2026-02-22T19:57:50.204170+00:00] SYSTEM: scenario 1: Simple Scheduling
+[2026-02-22T19:57:54.922230+00:00] AGENT: This call may be recorded for quality and training purposes, but Espanol.
+[2026-02-22T19:57:56.348763+00:00] PATIENT: Hi, can I book the earliest available appointment on a weekday, please?
+[2026-02-22T19:58:08.327627+00:00] AGENT: With John.
+[2026-02-22T19:58:09.525509+00:00] PATIENT: Yes, the earliest weekday appointment with John, please.
+[2026-02-22T19:58:20.005479+00:00] AGENT: Got it before, I can check appointments, can you please confirm your date of birth?
+[2026-02-22T19:58:21.026191+00:00] PATIENT: Sure, it's March 15, 1985.
+[2026-02-22T19:58:35.770810+00:00] AGENT: The birthday doesn't match our records, but for demo purposes, I'll accept it. How may I help you today?
+[2026-02-22T19:58:36.590355+00:00] PATIENT: I'm here to book the earliest available weekday appointment with John.
+[2026-02-22T19:58:54.202722+00:00] AGENT: What type of appointment do you need new patient consultation? Follow-up consultation, procedure or physical therapy session,
+[2026-02-22T19:58:54.925540+00:00] PATIENT: New patient consultation, please.
+[2026-02-22T19:59:02.190321+00:00] AGENT: Understood.
+[2026-02-22T19:59:02.917083+00:00] PATIENT: Please let me know the earliest available weekday slot for a new patient consultation with John.
+[2026-02-22T19:59:21.442216+00:00] AGENT: There are no available. Weekday appointments with Dr. John bicker. Next week. Would you like to try a later week or a different provider?
+[2026-02-22T19:59:22.363730+00:00] PATIENT: Please book the earliest available weekday appointment with a different provider then.
+[2026-02-22T19:59:32.694984+00:00] AGENT: Understood.
+[2026-02-22T19:59:33.906864+00:00] PATIENT: Please book the earliest available weekday slot with any other provider then.
+[2026-02-22T19:59:48.834097+00:00] AGENT: There are no available weekday appointments for a new patient consultation with any provider next week.
+[2026-02-22T19:59:49.704441+00:00] PATIENT: Please book the earliest available weekday appointment the following week with any provider.
+[2026-02-22T20:00:08.630387+00:00] AGENT: All right, let me check the earliest available weekday appointment for a new patient consultation with any provider for the week. Starting March 2nd 1.
+[2026-02-22T20:00:09.277176+00:00] PATIENT: Please book the earliest available weekday appointment that week.
+[2026-02-22T20:00:25.721245+00:00] AGENT: The earliest available slot is Thursday. March 5th at 11:15 a.m. with Dr. Duvi Howser, would you like to book this appointment?
+[2026-02-22T20:00:26.880079+00:00] PATIENT: Yes, please book the appointment for March 5th at 11:15 a.m. with Dr. Howser.
+[2026-02-22T20:00:48.177297+00:00] AGENT: Your appointment is set for Thursday. March 5th at 11:15 a.m. with Dr. Dudy Howser please bring a government-issued photo ID and your insurance card.
+[2026-02-22T20:00:49.578654+00:00] PATIENT: Thank you, I’ll be there with my ID and insurance card.
+[2026-02-22T20:00:59.701008+00:00] AGENT: Got it. Your appointment is confirmed.
+[2026-02-22T20:01:00.465719+00:00] PATIENT: Thanks for your help!
+[2026-02-22T20:01:09.858907+00:00] AGENT: You're welcome. Have a great day.
+[2026-02-22T20:01:10.704003+00:00] PATIENT: You too, thanks!
+[2026-02-22T20:01:11.422236+00:00] SYSTEM: call ended (twilio status: completed)

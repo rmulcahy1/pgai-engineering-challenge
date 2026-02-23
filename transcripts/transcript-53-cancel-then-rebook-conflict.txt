@@ -1,0 +1,37 @@
+[2026-02-22T23:59:46.201621+00:00] SYSTEM: call started
+[2026-02-22T23:59:46.201717+00:00] SYSTEM: scenario 53: Cancel Then Rebook Conflict
+[2026-02-22T23:59:52.773465+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T23:59:54.167309+00:00] PATIENT: Hi, I need to cancel my appointment and book a new one next week.
+[2026-02-23T00:00:05.575350+00:00] AGENT: Got it before I can help. Can you please provide your date of birth?
+[2026-02-23T00:00:06.435516+00:00] PATIENT: Sure, it's January 15, 1985.
+[2026-02-23T00:00:23.814600+00:00] AGENT: The birthday doesn't match our records, but for demo purposes, I'll accept it. Are you looking to schedule an appointment for next week?
+[2026-02-23T00:00:24.621497+00:00] PATIENT: Yes, please book me for any available slot on Tuesday next week.
+[2026-02-23T00:00:34.418196+00:00] AGENT: Got it.
+[2026-02-23T00:00:35.581447+00:00] PATIENT: Please go ahead and cancel my current appointment and book the Tuesday slot.
+[2026-02-23T00:00:44.992748+00:00] AGENT: Consultation a follow-up, a procedure or a physical therapy session.
+[2026-02-23T00:00:45.862589+00:00] PATIENT: I need to book a consultation, please.
+[2026-02-23T00:00:58.708710+00:00] AGENT: Understood, would you like a new patient consultation or a follow-up consultation?
+[2026-02-23T00:00:59.590470+00:00] PATIENT: A follow-up consultation, please.
+[2026-02-23T00:01:11.019730+00:00] AGENT: All right, let me check available. Follow-up consultation slots for you on Tuesday next week.
+[2026-02-23T00:01:11.907143+00:00] PATIENT: Please book the earliest available follow-up consultation on Tuesday.
+[2026-02-23T00:01:25.348440+00:00] AGENT: The earliest available follow-up consultation is Tuesday, February 24th.
+[2026-02-23T00:01:26.286839+00:00] PATIENT: Please confirm and book the Tuesday, February 24th, follow-up consultation for me.
+[2026-02-23T00:01:40.636341+00:00] AGENT: Got it. I'll book your follow-up consultation for Tuesday, February, 24th, at 2:00 p.m.
+[2026-02-23T00:01:41.521127+00:00] PATIENT: Please confirm that my previous appointment has been canceled.
+[2026-02-23T00:01:59.320045+00:00] AGENT: You have several upcoming appointments, can you tell me which appointment you wanted to confirm as?
+[2026-02-23T00:02:00.083021+00:00] PATIENT: Please confirm that my follow-up consultation on Monday, February 16th has been canceled.
+[2026-02-23T00:02:13.554133+00:00] AGENT: I do not see a follow-up consultation for Monday, February 16th.
+[2026-02-23T00:02:14.787902+00:00] PATIENT: Please cancel my follow-up consultation on Monday, February 23rd instead.
+[2026-02-23T00:02:29.043631+00:00] AGENT: Got it. Can you share the reason for canceling? Your follow-up consultation on Monday, February 23rd?
+[2026-02-23T00:02:29.640315+00:00] PATIENT: Please cancel it due to a scheduling conflict.
+[2026-02-23T00:02:43.522604+00:00] AGENT: your follow-up consultation with Doogie, Howser on Monday February 23rd at 10:30, a.m.
+[2026-02-23T00:02:44.406098+00:00] PATIENT: Please confirm that the Monday, February 23rd appointment is now canceled and that my Tuesday, February 24th slot is booked.
+[2026-02-23T00:03:06.038204+00:00] AGENT: Your Monday, February 23rd, appointment at 10:30, a.m. with dudy. Howser is canceled your follow-up consultation on Tuesday, February, 24th at 2:00 p.m.
+[2026-02-23T00:03:07.118871+00:00] PATIENT: Thank you, please confirm that my Tuesday, February 24th appointment is still booked.
+[2026-02-23T00:03:25.542486+00:00] AGENT: Your follow-up consultation on Tuesday. February 24th at 2 p.m. with Carl menz physical therapist to still booked and confirmed.
+[2026-02-23T00:03:26.341765+00:00] PATIENT: Thank you for confirming my appointment on February 24th.
+[2026-02-23T00:03:42.643062+00:00] AGENT: Got it. Your appointment on February 24th, at 2:00 p.m. with Carl. Mintz, physical therapist is confirmed. Let me know if you need anything else.
+[2026-02-23T00:03:43.325949+00:00] PATIENT: Thanks, that will be all for now.
+[2026-02-23T00:03:52.678647+00:00] AGENT: Okay, have a great day.
+[2026-02-23T00:03:53.270476+00:00] PATIENT: Thank you, goodbye.
+[2026-02-23T00:03:54.514192+00:00] SYSTEM: call ended (twilio status: completed)

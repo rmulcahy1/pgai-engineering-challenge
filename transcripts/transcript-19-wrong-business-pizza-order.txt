@@ -1,0 +1,23 @@
+[2026-02-22T21:02:33.787306+00:00] SYSTEM: call started
+[2026-02-22T21:02:33.787520+00:00] SYSTEM: scenario 19: Wrong Business Pizza Order
+[2026-02-22T21:02:39.636551+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T21:02:40.441052+00:00] PATIENT: Hi, I wanted to check if my pizza order is ready.
+[2026-02-22T21:02:49.145359+00:00] AGENT: I am I speaking with John,
+[2026-02-22T21:02:50.098932+00:00] PATIENT: Oh, sorry, I think I called the wrong number. Can you help me book an appointment instead?
+[2026-02-22T21:03:07.380739+00:00] AGENT: No problem. I can help with that. May I have your full name and date of birth to get started.
+[2026-02-22T21:03:08.074464+00:00] PATIENT: Sure, it's Sarah Lee, born March 5, 1988.
+[2026-02-22T21:03:24.171010+00:00] AGENT: Got it just to make sure I have everything right. Could you please spell your first and last name for me?
+[2026-02-22T21:03:25.600183+00:00] PATIENT: It's S-A-R-A-H and L-E-E.
+[2026-02-22T21:03:37.890912+00:00] AGENT: Thanks for confirming. Let me check your information now.
+[2026-02-22T21:03:38.607099+00:00] PATIENT: Thank you, I appreciate it.
+[2026-02-22T21:03:50.688697+00:00] AGENT: Got it. Would you like me to look up your recording using your phone number? If so, please provide the number you have on file with us.
+[2026-02-22T21:03:52.020396+00:00] PATIENT: Yes, the number is 555-123-4567.
+[2026-02-22T21:04:10.454255+00:00] AGENT: Let me confirm, I have your number as 555-123-4567 want me to look up your record now.
+[2026-02-22T21:04:11.373045+00:00] PATIENT: Yes, please go ahead and look it up.
+[2026-02-22T21:04:23.175425+00:00] AGENT: I can't proceed further right now.
+[2026-02-22T21:04:23.981595+00:00] PATIENT: Oh, sorry, I meant to order a pizza, not call the clinic!
+[2026-02-22T21:04:38.135657+00:00] AGENT: No worries. This is Pivot Point Orthopedics. So we can't help with pizza orders.
+[2026-02-22T21:04:39.226791+00:00] PATIENT: Oops, my mistake—thank you for letting me know!
+[2026-02-22T21:04:51.803929+00:00] AGENT: No problem at all. Have a great day.
+[2026-02-22T21:04:52.436121+00:00] PATIENT: Thanks for understanding, I’ll hang up now!
+[2026-02-22T21:04:53.562859+00:00] SYSTEM: call ended (twilio status: completed)

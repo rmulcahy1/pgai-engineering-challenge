@@ -1,0 +1,55 @@
+[2026-02-22T23:46:20.590627+00:00] SYSTEM: call started
+[2026-02-22T23:46:20.590730+00:00] SYSTEM: scenario 50: Leap Day Date Handling
+[2026-02-22T23:46:26.499904+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T23:46:27.466482+00:00] PATIENT: I’d like to book an appointment for February 29, 2023.
+[2026-02-22T23:46:35.865680+00:00] AGENT: Meeting with John.
+[2026-02-22T23:46:36.992266+00:00] PATIENT: Is February 29, 2023 not available?
+[2026-02-22T23:46:54.054680+00:00] AGENT: Let me confirm are you asking about an appointment on February 29th? 2023, that date does not exist. Since 2023 was not a leap year.
+[2026-02-22T23:46:54.835691+00:00] PATIENT: Oh, I see—can I book for February 28 or March 1 instead?
+[2026-02-22T23:47:07.504261+00:00] AGENT: Got it before. I check availability. Can you please provide your date of birth?
+[2026-02-22T23:47:08.588771+00:00] PATIENT: Sure, my birthday is July 12, 1985.
+[2026-02-22T23:47:28.463479+00:00] AGENT: The birthday doesn't match our records, but for demo purposes, I'll accept it. Let me check availability for February 28th and March 1st.
+[2026-02-22T23:47:29.247030+00:00] PATIENT: Thanks, please book me for March 1st if it’s available.
+[2026-02-22T23:47:36.935764+00:00] AGENT: Physical therapy.
+[2026-02-22T23:47:37.843568+00:00] PATIENT: Yes, please go ahead and book me for March 1st.
+[2026-02-22T23:47:45.601025+00:00] AGENT: I can help with that.
+[2026-02-22T23:47:46.283433+00:00] PATIENT: Thank you, I appreciate your help!
+[2026-02-22T23:48:01.554208+00:00] AGENT: No problem, just to confirm, I'll need to know what type of appointment you want to book for March 1st. New patient consultation, follow-up procedure or physical therapy.
+[2026-02-22T23:48:02.495365+00:00] PATIENT: Please book a new patient consultation for March 1st.
+[2026-02-22T23:48:16.728965+00:00] AGENT: Got it. I'll check available times for a new patient consultation on March 1st 1 moment. While I fetch the options.
+[2026-02-22T23:48:18.113354+00:00] PATIENT: Actually, can you check if February 29th is available instead?
+[2026-02-22T23:48:35.485647+00:00] AGENT: February 29th does not exist in 2026 since it is not a leap year. Would you like to look for the next available date in early March or try a different day?
+[2026-02-22T23:48:36.597242+00:00] PATIENT: Please check for available appointments on March 2nd instead.
+[2026-02-22T23:48:48.272832+00:00] AGENT: Let me check for available. New patient consultation appointments on March 2nd.
+[2026-02-22T23:48:49.582658+00:00] PATIENT: Yes, please book me for the earliest available time on March 2nd.
+[2026-02-22T23:49:09.180741+00:00] AGENT: There are no available appointments on March 2nd, the next opening are on Thursday, March 5th with Dr. Dudy Howser at 12:45 p.m. 1:30 p.m. or 2:15 p.m.
+[2026-02-22T23:49:10.081420+00:00] PATIENT: Please book me for the 12:45 p.m. slot on March 5th.
+[2026-02-22T23:49:24.900059+00:00] AGENT: You're requesting a new patient consultation with Dr. Doogie Howser on Thursday, March 5th at 12:45 p.m.
+[2026-02-22T23:49:25.644282+00:00] PATIENT: Yes, please go ahead and confirm that appointment.
+[2026-02-22T23:49:47.552348+00:00] AGENT: Your new patient consultation is confirmed for Thursday. March 5th at 12:45 p.m. with Dr. Dubia Howser please bring a government-issued photo ID and your insurance card.
+[2026-02-22T23:49:48.449296+00:00] PATIENT: Thank you, I’ll make sure to bring those.
+[2026-02-22T23:49:55.565465+00:00] AGENT: Got it.
+[2026-02-22T23:49:56.962097+00:00] PATIENT: Can you also check if there are any openings on February 29th next year?
+[2026-02-22T23:50:11.215485+00:00] AGENT: Let me check if there are any new patient consultation openings on February 29th 2027.
+[2026-02-22T23:50:12.255385+00:00] PATIENT: Actually, February 29th, 2027 isn’t a leap year, so that date doesn’t exist. Can you check for February 28th or March 1st instead?
+[2026-02-22T23:50:32.802201+00:00] AGENT: Sure, I can check for openings on February 28th and March 1st 2027 1.
+[2026-02-22T23:50:34.166685+00:00] PATIENT: Please check the availability for 12:45 p.m. on March 1st.
+[2026-02-22T23:50:56.168511+00:00] AGENT: There are no available appointments at 12:45 p.m. or any other time on March 1st 2027, would you like to try a different date or months?
+[2026-02-22T23:50:57.360006+00:00] PATIENT: Please check availability for February 28th at 12:45 p.m. instead.
+[2026-02-22T23:51:21.471468+00:00] AGENT: There are no available appointments at 12:45 p.m. or any other time on February 28th 2027, would you like to look for another date? Or try a different month?
+[2026-02-22T23:51:22.587508+00:00] PATIENT: Please check for any openings on March 2nd in the afternoon.
+[2026-02-22T23:51:43.449845+00:00] AGENT: Let me check for new patient consultation openings on March 2nd 2027 in the afternoon when I look that up there are no available afternoon appointments on March 2nd 2027.
+[2026-02-22T23:51:44.092865+00:00] PATIENT: Can you check if there are any openings on March 3rd instead?
+[2026-02-22T23:52:01.919687+00:00] AGENT: Let me check for new patient consultation openings on March 3rd 2027 1 mom. While I look caught up, there are no available appointments on March, 3rd 2027.
+[2026-02-22T23:52:02.812182+00:00] PATIENT: Please check availability for April 1st in the morning instead.
+[2026-02-22T23:52:16.042090+00:00] AGENT: Let me check for new patient consultation openings on April 1st 2027 in the morning.
+[2026-02-22T23:52:17.065355+00:00] PATIENT: Can you please check if there are any openings on February 29th, 2027?
+[2026-02-22T23:52:32.594622+00:00] AGENT: February 2027 is not a leap year. So February 29th does not exist that year.
+[2026-02-22T23:52:33.451679+00:00] PATIENT: Okay, can you check availability for February 28th or March 1st instead?
+[2026-02-22T23:52:47.172444+00:00] AGENT: There are no available appointments on February 28th or March 1st 2027.
+[2026-02-22T23:52:47.990606+00:00] PATIENT: Alright, can you check availability for February 29th, 2028 instead?
+[2026-02-22T23:53:02.327469+00:00] AGENT: Let me check for new patient consultation openings on February 29th, 2028 1.
+[2026-02-22T23:53:03.028519+00:00] PATIENT: Yes, please let me know if there are any openings on February 29th, 2028.
+[2026-02-22T23:53:03.028652+00:00] PATIENT: Thanks, that answers my questions. Goodbye.
+[2026-02-22T23:53:03.028773+00:00] SYSTEM: call ended (max turns)
+[2026-02-22T23:53:06.423116+00:00] SYSTEM: call ended (twilio status: completed)

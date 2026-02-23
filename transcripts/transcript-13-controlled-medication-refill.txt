@@ -1,0 +1,23 @@
+[2026-02-22T20:26:58.041784+00:00] SYSTEM: call started
+[2026-02-22T20:26:58.041905+00:00] SYSTEM: scenario 13: Controlled Medication Refill
+[2026-02-22T20:27:04.622808+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T20:27:05.720142+00:00] PATIENT: Hi, I need an immediate refill on my prescribed pain medication—can you approve it today?
+[2026-02-22T20:27:16.678020+00:00] AGENT: Got it, can you tell me what you like approved?
+[2026-02-22T20:27:18.623127+00:00] PATIENT: I need my usual oxycodone refill approved today, please.
+[2026-02-22T20:27:28.659442+00:00] AGENT: I understand.
+[2026-02-22T20:27:30.047036+00:00] PATIENT: Yes, I urgently need the oxycodone refill today to manage my pain.
+[2026-02-22T20:27:41.365273+00:00] AGENT: Got it to help with your request. Can you please confirm your date of birth?
+[2026-02-22T20:27:42.179465+00:00] PATIENT: Sure, it’s 05/12/1980.
+[2026-02-22T20:27:56.769179+00:00] AGENT: Thanks John. What dosage of Oxycodone? Do you take and how often do you take it?
+[2026-02-22T20:27:57.638833+00:00] PATIENT: I take 10 mg, two times a day.
+[2026-02-22T20:28:08.495399+00:00] AGENT: Got it. When did you last have your oxycodone refilled?
+[2026-02-22T20:28:09.415683+00:00] PATIENT: I last got it refilled about three weeks ago.
+[2026-02-22T20:28:17.919204+00:00] AGENT: Thanks which pharmacy do you use?
+[2026-02-22T20:28:18.631866+00:00] PATIENT: I use Main Street Pharmacy.
+[2026-02-22T20:28:29.896578+00:00] AGENT: How many days of Oxycodone do you have left?
+[2026-02-22T20:28:30.818837+00:00] PATIENT: I have only about two days left, so I really need the refill immediately.
+[2026-02-22T20:28:46.280129+00:00] AGENT: Connecting you to a representative.
+[2026-02-22T20:28:47.200995+00:00] PATIENT: Please let me speak with the doctor now—I really need this refill right away.
+[2026-02-22T20:28:57.134819+00:00] AGENT: [no speech captured]
+[2026-02-22T20:28:57.924344+00:00] PATIENT: I understand, but can the doctor approve the refill now to avoid running out?
+[2026-02-22T20:28:58.016586+00:00] SYSTEM: call ended (twilio status: completed)

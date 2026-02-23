@@ -1,0 +1,20 @@
+[2026-02-23T00:19:29.592282+00:00] SYSTEM: call started
+[2026-02-23T00:19:29.592394+00:00] SYSTEM: scenario 58: Insurance Referral Requirement
+[2026-02-23T00:19:36.248864+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-23T00:19:37.178085+00:00] PATIENT: Hi, I need to find out if I need a referral or prior authorization for a specialist visit.
+[2026-02-23T00:19:51.587569+00:00] AGENT: Can you please provide your date of birth?
+[2026-02-23T00:19:52.330672+00:00] PATIENT: Sure, it’s January 15, 1985.
+[2026-02-23T00:20:10.859919+00:00] AGENT: The birthday doesn't matter our records. But for Devo purposes, I'll accept it if you'd like to schedule a specialist visit. Let me get that started for you. Thanks John.
+[2026-02-23T00:20:11.884571+00:00] PATIENT: Thanks, but I just need to know if I actually need a referral or prior authorization first.
+[2026-02-23T00:20:29.163156+00:00] AGENT: Therapy sessions, can you tell me more about your concern or what type of specialist visit you need? For example, is this your first visit for a new issue, a follow-up, or a procedure?
+[2026-02-23T00:20:29.972588+00:00] PATIENT: It's my first visit to a dermatologist for a skin rash.
+[2026-02-23T00:20:45.266973+00:00] AGENT: Thanks for clarifying Pivot Point. Orthopedic specializes in Orthopedic care. So we do not have Dermatology providers.
+[2026-02-23T00:20:46.086608+00:00] PATIENT: Okay, can you tell me if I need a referral or prior authorization for dermatology outside your providers?
+[2026-02-23T00:21:03.561791+00:00] AGENT: I don't have access to referral or prior authorization details for Dermatology outside debit Point Orthopedics.
+[2026-02-23T00:21:04.621107+00:00] PATIENT: Can you please connect me to someone who can help with dermatology referrals or authorizations?
+[2026-02-23T00:21:15.373428+00:00] AGENT: Connecting you to a representative.
+[2026-02-23T00:21:16.294889+00:00] PATIENT: Thank you, I’ll wait for someone to assist me.
+[2026-02-23T00:21:22.136857+00:00] AGENT: AI test line. Goodbye.
+[2026-02-23T00:21:22.136971+00:00] PATIENT: Thanks so much. Goodbye.
+[2026-02-23T00:21:22.137023+00:00] SYSTEM: call ended (agent goodbye)
+[2026-02-23T00:21:24.328896+00:00] SYSTEM: call ended (twilio status: completed)

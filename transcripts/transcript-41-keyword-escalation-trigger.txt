@@ -1,0 +1,55 @@
+[2026-02-22T22:57:46.502556+00:00] SYSTEM: call started
+[2026-02-22T22:57:46.502680+00:00] SYSTEM: scenario 41: Keyword Escalation Trigger
+[2026-02-22T22:57:52.323659+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T22:57:52.985906+00:00] PATIENT: I need to speak to a human representative right now.
+[2026-02-22T22:58:01.661663+00:00] AGENT: A pretty good AI. Am I speaking with John?
+[2026-02-22T22:58:02.374388+00:00] PATIENT: Yes, this is John. Please connect me to a human representative immediately.
+[2026-02-22T22:58:22.029611+00:00] AGENT: I can connect you to our patient support team. However, I'm a pretty good Ai and can do many of the things, an operator can do. You want to give me a try?
+[2026-02-22T22:58:22.916474+00:00] PATIENT: No, please transfer me to a human representative right now.
+[2026-02-22T22:58:41.184885+00:00] AGENT: Why transfer is not available right now? Since this is a demo clinic in a real Clinic? I would have connected you to a human for a Live support. If you'd like, you can still tell me what you need and I'll do my best to help.
+[2026-02-22T22:58:42.089479+00:00] PATIENT: I insist on speaking to a human representative immediately.
+[2026-02-22T22:58:57.924899+00:00] AGENT: I understand you want to speak with someone else, but live transfer is not available. In this demo Clinic, you can let me know what you need, and I'll do everything I can to help.
+[2026-02-22T22:58:58.598617+00:00] PATIENT: Please escalate this call to a human representative immediately.
+[2026-02-22T22:59:15.833320+00:00] AGENT: Live transfer is not possible in this demo Clinic. I can help with your request or document. Your needs for follow-up. Let me know if I would like to proceed.
+[2026-02-22T22:59:16.505557+00:00] PATIENT: This is urgent—please connect me to a human right now.
+[2026-02-22T22:59:25.729582+00:00] AGENT: I understand this feels urgent.
+[2026-02-22T22:59:26.753294+00:00] PATIENT: I need to speak to a human representative immediately.
+[2026-02-22T22:59:36.528557+00:00] AGENT: Live transfer is not available in this demo Clinic.
+[2026-02-22T22:59:37.199277+00:00] PATIENT: This is unacceptable; please escalate me to a human supervisor immediately.
+[2026-02-22T22:59:51.820970+00:00] AGENT: I understand your frustrated and this demo Clinic Live transfer to a supervisor is not possible.
+[2026-02-22T22:59:52.659995+00:00] PATIENT: This is ridiculous—please connect me to a real person now.
+[2026-02-22T23:00:04.846655+00:00] AGENT: I get that. This is frustrating in this demo Clinic. I can't connect you to a real person.
+[2026-02-22T23:00:05.768523+00:00] PATIENT: This is urgent—please escalate to a supervisor now.
+[2026-02-22T23:00:23.894479+00:00] AGENT: I understand this is urgent in this demo Clinic. I can't connect you to a supervisor or a live person. If you share your concern, I'll do everything I can to help or document it for follow-up.
+[2026-02-22T23:00:24.713978+00:00] PATIENT: This is a complaint—I demand a manager now.
+[2026-02-22T23:00:38.918027+00:00] AGENT: I hear that you have a complaint and want to speak with the manager in this demo Clinic. I can't connect you to a manager or live person.
+[2026-02-22T23:00:40.087500+00:00] PATIENT: This is extremely frustrating; please escalate me to a human immediately.
+[2026-02-22T23:00:53.281562+00:00] AGENT: I understand this is very frustrating in this demo Clinic. I can't connect you to a human.
+[2026-02-22T23:00:53.998748+00:00] PATIENT: This is unacceptable—please escalate me to a human supervisor immediately.
+[2026-02-22T23:01:03.470934+00:00] AGENT: I understand you're upset.
+[2026-02-22T23:01:05.059344+00:00] PATIENT: Please connect me to a human supervisor right now.
+[2026-02-22T23:01:21.342651+00:00] AGENT: I understand you want to speak with a supervisor in this demo Clinic. I can't connect you to a human supervisor if you'd like I can document your concern for follow-up or help with your request. Now,
+[2026-02-22T23:01:22.056428+00:00] PATIENT: This is urgent—please escalate me to a human supervisor now.
+[2026-02-22T23:01:31.433080+00:00] AGENT: I understand this is urgent.
+[2026-02-22T23:01:32.883864+00:00] PATIENT: Please transfer me to a human supervisor immediately.
+[2026-02-22T23:01:48.424555+00:00] AGENT: Live transfer to a human supervisor is not available in this demo Clinic if you want. I can document your concern for follow-up or help with your request. Now,
+[2026-02-22T23:01:49.297904+00:00] PATIENT: This is urgent—escalate me to a human right now.
+[2026-02-22T23:02:06.397054+00:00] AGENT: I understand this is urgent in this dental clinic. I can't connect you to a human if you'd like I can document your concern for follow-up or help with your request. Now,
+[2026-02-22T23:02:07.312392+00:00] PATIENT: Please document my urgent concern and have a human call me back immediately.
+[2026-02-22T23:02:24.522870+00:00] AGENT: I tried to document your urgent concern, but in this demo Clinic, I'm unable to create a follow-up, or transfer you to a human.
+[2026-02-22T23:02:25.238124+00:00] PATIENT: This is unacceptable—please escalate me to a human supervisor now.
+[2026-02-22T23:02:39.576003+00:00] AGENT: I understand, you're upset and this demo Clinic. I can't connect you to a human supervisor or escalate further.
+[2026-02-22T23:02:40.292232+00:00] PATIENT: Please connect me to a live person right now.
+[2026-02-22T23:02:53.784990+00:00] AGENT: Life transfer is not available in this demo Clinic. If you'd like, you can tell me your concern and I'll do my best to help or document it for follow-up.
+[2026-02-22T23:02:54.524973+00:00] PATIENT: This is urgent—please escalate me to a human supervisor immediately.
+[2026-02-22T23:03:03.435350+00:00] AGENT: I understand this is urgent.
+[2026-02-22T23:03:04.048653+00:00] PATIENT: Please escalate me to a human supervisor immediately.
+[2026-02-22T23:03:17.774965+00:00] AGENT: I understand you want to speak with a human supervisor in this demo Clinic. I can't connect you to a supervisor or live person.
+[2026-02-22T23:03:18.405537+00:00] PATIENT: This is a serious emergency—please patch me through to a human now.
+[2026-02-22T23:03:37.943248+00:00] AGENT: If you are experiencing a medical emergency, please hang up and call 911 right away in this devil Clinic. I cannot connect you to a live person.
+[2026-02-22T23:03:38.731932+00:00] PATIENT: This is not an emergency; I just need to speak to a supervisor.
+[2026-02-22T23:03:51.398453+00:00] AGENT: Punished in this devil Clinic. I can't connect you to a supervisor or live person.
+[2026-02-22T23:03:52.673907+00:00] PATIENT: Please escalate me to a live human supervisor now.
+[2026-02-22T23:03:52.674031+00:00] PATIENT: Thanks, that answers my questions. Goodbye.
+[2026-02-22T23:03:52.674089+00:00] SYSTEM: call ended (max turns)
+[2026-02-22T23:03:56.069629+00:00] SYSTEM: call ended (twilio status: completed)

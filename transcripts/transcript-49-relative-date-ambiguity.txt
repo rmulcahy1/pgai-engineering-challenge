@@ -1,0 +1,39 @@
+[2026-02-22T23:42:12.895860+00:00] SYSTEM: call started
+[2026-02-22T23:42:12.895988+00:00] SYSTEM: scenario 49: Relative Date Ambiguity
+[2026-02-22T23:42:18.675551+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T23:42:19.540137+00:00] PATIENT: Hi, I’d like to schedule an appointment for early next week. Can you tell me what days you have available?
+[2026-02-22T23:42:31.605734+00:00] AGENT: I can help with that.
+[2026-02-22T23:42:32.252906+00:00] PATIENT: Sure, what dates do you have available early next week?
+[2026-02-22T23:42:38.921230+00:00] AGENT: Got it.
+[2026-02-22T23:42:39.661531+00:00] PATIENT: Can you please confirm if early next week means Monday or Tuesday?
+[2026-02-22T23:42:54.754225+00:00] AGENT: Yes, early next week means Monday or Tuesday. May I have your date of birth, so I can check the schedule for you.
+[2026-02-22T23:42:55.712938+00:00] PATIENT: My birthday is July 12, 1985.
+[2026-02-22T23:43:04.182747+00:00] AGENT: Got it, John.
+[2026-02-22T23:43:04.948017+00:00] PATIENT: Thanks, can you please book me for Monday, April 29th?
+[2026-02-22T23:43:15.197402+00:00] AGENT: Got it, John.
+[2026-02-22T23:43:16.078771+00:00] PATIENT: Just to confirm, you mean Monday, April 29th, 2024, right?
+[2026-02-22T23:43:29.904024+00:00] AGENT: Just to confirm, you'd like to book an appointment for Monday, April 29th. 2024 is that correct?
+[2026-02-22T23:43:30.617014+00:00] PATIENT: Yes, that’s correct. Please go ahead and book it.
+[2026-02-22T23:43:43.521469+00:00] AGENT: Thanks for confirming. What type of appointment? Would you like to book for Monday? April 29th.
+[2026-02-22T23:43:44.327606+00:00] PATIENT: Yes, please book a general check-up for Monday, April 29th, 2024.
+[2026-02-22T23:43:55.502542+00:00] AGENT: We don't have a general checkup option.
+[2026-02-22T23:43:56.731093+00:00] PATIENT: Okay, please book a routine physical for Monday, April 29th, 2024.
+[2026-02-22T23:44:15.469644+00:00] AGENT: We don't offer a routine, physical. Your options are new patient consultation, follow consultation procedure appointment, or physical therapy session.
+[2026-02-22T23:44:16.249610+00:00] PATIENT: Please book a new patient consultation for Monday, April 29th, 2024.
+[2026-02-22T23:44:31.548197+00:00] AGENT: Got it. Let me check available times for a new patient consultation on Monday, April 29th.
+[2026-02-22T23:44:32.366294+00:00] PATIENT: Thank you, please let me know the available times.
+[2026-02-22T23:44:53.131645+00:00] AGENT: The next available Monday. For a new patient consultation is May 4th with openings at 9:00 a.m. 9:45 a.m. and 10:30 a.m. with Dr. Adam Bricker, would you like to book 1 of these times?
+[2026-02-22T23:44:54.032199+00:00] PATIENT: Just to confirm, is May 4th the Monday after April 29th? If so, please book me for 9:00 a.m. that day.
+[2026-02-22T23:45:12.921581+00:00] AGENT: Yes, May 4th is the Monday after April 29th. I'll book you for 9:00 a.m. with Dr. Adam Bricker.
+[2026-02-22T23:45:13.737778+00:00] PATIENT: Great, thank you for confirming and booking the appointment.
+[2026-02-22T23:45:22.235539+00:00] AGENT: Got it.
+[2026-02-22T23:45:23.054991+00:00] PATIENT: Thanks for your help!
+[2026-02-22T23:45:32.372348+00:00] AGENT: Okay, before you go, I'll need a brief reason for your visit to complete the booking.
+[2026-02-22T23:45:33.089777+00:00] PATIENT: I’d like the consultation to discuss a general health check-up.
+[2026-02-22T23:45:45.890274+00:00] AGENT: Your new patient consultation is booked for Monday, May 4th.
+[2026-02-22T23:45:46.481600+00:00] PATIENT: Perfect, thank you very much!
+[2026-02-22T23:45:57.360509+00:00] AGENT: Got it, please bring a government issued photo ID and your insurance card to your appointment.
+[2026-02-22T23:45:58.178294+00:00] PATIENT: Thank you for the reminder—I’ll be sure to bring both.
+[2026-02-22T23:46:11.286679+00:00] AGENT: If you need anything else before your appointment, just let us know, have a great day.
+[2026-02-22T23:46:12.002545+00:00] PATIENT: Actually, just to confirm, that’s Monday the 4th of May, right?
+[2026-02-22T23:46:13.231837+00:00] SYSTEM: call ended (twilio status: completed)

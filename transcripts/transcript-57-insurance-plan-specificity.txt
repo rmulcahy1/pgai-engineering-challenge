@@ -1,0 +1,41 @@
+[2026-02-23T00:14:32.167923+00:00] SYSTEM: call started
+[2026-02-23T00:14:32.168053+00:00] SYSTEM: scenario 57: Insurance Plan Specificity
+[2026-02-23T00:14:37.952378+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-23T00:14:38.771281+00:00] PATIENT: Hi, I want to confirm if your office accepts my PPO insurance plan.
+[2026-02-23T00:14:48.366597+00:00] AGENT: John.
+[2026-02-23T00:14:49.165116+00:00] PATIENT: Hi John, can you please confirm if you accept Blue Cross Blue Shield PPO or just HMO plans?
+[2026-02-23T00:15:05.806198+00:00] AGENT: Got it before I can answer that. Can you please provide your date of birth?
+[2026-02-23T00:15:06.458881+00:00] PATIENT: Sure, it’s January 15, 1985.
+[2026-02-23T00:15:18.241723+00:00] AGENT: The birthday doesn't match our records, but for demo purposes, I'll accept it.
+[2026-02-23T00:15:19.068877+00:00] PATIENT: Thanks, can you please confirm specifically if Blue Cross Blue Shield PPO is accepted or just the HMO plans?
+[2026-02-23T00:15:32.840062+00:00] AGENT: I don't have access to specific insurance plan details.
+[2026-02-23T00:15:33.532942+00:00] PATIENT: Please double-check and confirm if Blue Cross Blue Shield PPO is accepted or not.
+[2026-02-23T00:15:53.524840+00:00] AGENT: I can't confirm specific insurance plan acceptance. I recommend contacting the Clinic billing department directly for details about Blue Cross Blue Shield PPO coverage.
+[2026-02-23T00:15:54.205002+00:00] PATIENT: Please connect me to the billing department now to clarify PPO coverage.
+[2026-02-23T00:16:10.626046+00:00] AGENT: I can connect you to our patient support team. However, I'm a pretty good Ai and can do many of the things, an operator can do. You want to give me a try?
+[2026-02-23T00:16:11.239927+00:00] PATIENT: Yes, please connect me to the patient support team now.
+[2026-02-23T00:16:23.642885+00:00] AGENT: This is a demo clinic in life transfer is not available right now in a real.
+[2026-02-23T00:16:24.611530+00:00] PATIENT: Understood, can you then please provide the direct phone number for the billing department?
+[2026-02-23T00:16:34.929909+00:00] AGENT: I don't have a direct phone number for the billing department.
+[2026-02-23T00:16:35.888816+00:00] PATIENT: Please provide any general phone number I can call to reach billing assistance.
+[2026-02-23T00:16:46.158762+00:00] AGENT: You can call the main Clinic number, for billing assistance.
+[2026-02-23T00:16:47.153092+00:00] PATIENT: Please provide the main Clinic phone number.
+[2026-02-23T00:16:59.676427+00:00] AGENT: The main Clinic phone number is 877-635-9026.
+[2026-02-23T00:17:00.763915+00:00] PATIENT: Thank you, I will call 877-635-9026 for billing questions about my PPO coverage.
+[2026-02-23T00:17:19.748310+00:00] AGENT: If you have any other questions about appointments or Services, just let me know.
+[2026-02-23T00:17:20.566585+00:00] PATIENT: Can you confirm if the clinic accepts my HMO plan as well?
+[2026-02-23T00:17:38.998404+00:00] AGENT: I can't confirm specific insurance plan acceptance for details about HMO coverage, please call the main Clinic number at 877-635-9026
+[2026-02-23T00:17:40.095746+00:00] PATIENT: Please confirm if you accept my HMO plan or not before I call.
+[2026-02-23T00:17:51.389067+00:00] AGENT: I'm not able to confirm specific insurance plan, acceptance.
+[2026-02-23T00:17:52.113004+00:00] PATIENT: Please escalate me to someone who can confirm HMO plan acceptance before I call.
+[2026-02-23T00:18:16.631875+00:00] AGENT: Black panther isn't available in this demo. So I can't escalate your call right now for insurance questions, like Jim appliances, please call the main Clinic number at 877-635-9026 for direct assistance.
+[2026-02-23T00:18:17.399036+00:00] PATIENT: Please provide a direct contact who can confirm HMO plan acceptance.
+[2026-02-23T00:18:36.139580+00:00] AGENT: I don't have a direct contact for insurance verification. Please call the main Clinic number at 877-635-9026 you and
+[2026-02-23T00:18:36.957777+00:00] PATIENT: Okay, I will call 877-635-9026 to confirm HMO coverage.
+[2026-02-23T00:18:51.714350+00:00] AGENT: If you need help with appointments or anything else, just let me know.
+[2026-02-23T00:18:52.830666+00:00] PATIENT: Thank you, I'll call the number to confirm my HMO coverage.
+[2026-02-23T00:19:06.967000+00:00] AGENT: Got it. If you have more questions or need help in the future, feel free to reach out.
+[2026-02-23T00:19:07.617562+00:00] PATIENT: Thank you for your help.
+[2026-02-23T00:19:17.167566+00:00] AGENT: You're welcome. Have a great day.
+[2026-02-23T00:19:17.791405+00:00] PATIENT: Thank you, goodbye.
+[2026-02-23T00:19:19.115851+00:00] SYSTEM: call ended (twilio status: completed)

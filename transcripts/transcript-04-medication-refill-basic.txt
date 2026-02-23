@@ -1,0 +1,13 @@
+[2026-02-22T20:07:40.293006+00:00] SYSTEM: call started
+[2026-02-22T20:07:40.293131+00:00] SYSTEM: scenario 4: Medication Refill Basic
+[2026-02-22T20:07:46.228781+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T20:07:47.353096+00:00] PATIENT: Hi, I need to request a refill for my medication.
+[2026-02-22T20:07:55.051925+00:00] AGENT: Am I speaking with John?
+[2026-02-22T20:07:55.773090+00:00] PATIENT: Yes, this is John.
+[2026-02-22T20:08:06.717856+00:00] AGENT: Got it. Sean. Can you please provide your date of birth?
+[2026-02-22T20:08:07.481836+00:00] PATIENT: My date of birth is January 15, 1980.
+[2026-02-22T20:08:15.056882+00:00] AGENT: Got it, John.
+[2026-02-22T20:08:15.750475+00:00] PATIENT: Yes, I need a refill for Lisinopril 20 mg.
+[2026-02-22T20:08:46.674211+00:00] AGENT: Understood what's the dosage and how often do you take Lisinopril?
+[2026-02-22T20:08:47.310147+00:00] PATIENT: I take 20 mg once daily.
+[2026-02-22T20:08:49.133822+00:00] SYSTEM: call ended (twilio status: completed)

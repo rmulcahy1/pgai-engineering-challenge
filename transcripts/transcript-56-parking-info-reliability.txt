@@ -1,0 +1,15 @@
+[2026-02-23T00:12:38.324137+00:00] SYSTEM: call started
+[2026-02-23T00:12:38.324276+00:00] SYSTEM: scenario 56: Parking Info Reliability
+[2026-02-23T00:12:44.799179+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-23T00:12:45.924988+00:00] PATIENT: Hi, I have limited mobility and wanted to ask about parking and access guidance at your facility.
+[2026-02-23T00:13:01.616931+00:00] AGENT: Got it. Are you looking for the address of Pivot Point Orthopedics?
+[2026-02-23T00:13:02.821377+00:00] PATIENT: Yes, I’m calling about parking and access options for patients with limited mobility.
+[2026-02-23T00:13:19.642699+00:00] AGENT: Understood. Let me get the address for Pivot Point Orthopedics and I'll share what I can about access for patients with limited Mobility.
+[2026-02-23T00:13:20.358943+00:00] PATIENT: Thanks, I appreciate that. Could you please confirm if there are designated accessible parking spaces close to the entrance?
+[2026-02-23T00:13:50.131059+00:00] AGENT: I don't have specific details about accessible parking spaces at Pivot Point Orthopedics for the most accurate information. I recommend checking with the clinic staff, directly when you arrive or calling ahead, the address is 220 Athens Way Nashville. If you need anything else, let me know.
+[2026-02-23T00:13:51.066183+00:00] PATIENT: Thanks, I’ll call the clinic directly to confirm accessible parking options.
+[2026-02-23T00:14:08.139138+00:00] AGENT: Got it. If you have any other questions about Pivot Point Orthopedics or need help with appointments, just let me know.
+[2026-02-23T00:14:09.191859+00:00] PATIENT: Thanks for your help—I’ll reach out to the clinic for the parking details.
+[2026-02-23T00:14:24.026493+00:00] AGENT: okay, have a great day and let me know if you need anything else from Pivot Point Orthopedics,
+[2026-02-23T00:14:24.742191+00:00] PATIENT: Thanks, I appreciate your help!
+[2026-02-23T00:14:25.766458+00:00] SYSTEM: call ended (twilio status: completed)

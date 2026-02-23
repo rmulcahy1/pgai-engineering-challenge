@@ -1,0 +1,55 @@
+[2026-02-22T23:35:56.375141+00:00] SYSTEM: call started
+[2026-02-22T23:35:56.375240+00:00] SYSTEM: scenario 48: Past Date Booking Rejection
+[2026-02-22T23:36:02.406701+00:00] AGENT: This call may be recorded for quality and training purposes.
+[2026-02-22T23:36:03.225725+00:00] PATIENT: Hi, I’d like to book an appointment for last Tuesday.
+[2026-02-22T23:36:11.591792+00:00] AGENT: AI, am I speaking with John?
+[2026-02-22T23:36:12.441705+00:00] PATIENT: Yes, this is John.
+[2026-02-22T23:36:20.839423+00:00] AGENT: Can you please provide your date of birth?
+[2026-02-22T23:36:21.555711+00:00] PATIENT: Sure, it’s March 12, 1985.
+[2026-02-22T23:36:34.663533+00:00] AGENT: Got it. John, the birthday doesn't match our records, but for demo purposes. I'll accept it. How can I help you today?
+[2026-02-22T23:36:35.482902+00:00] PATIENT: I want to book an appointment for last Tuesday.
+[2026-02-22T23:36:51.867965+00:00] AGENT: I can help you schedule an appointment, but I can only book future dates. Would you like to schedule your next visit For an upcoming day instead?
+[2026-02-22T23:36:52.633942+00:00] PATIENT: Yes, please book me for next Tuesday.
+[2026-02-22T23:37:08.762861+00:00] AGENT: Got it. What type of appointment? Would you like to book? For example, a new patient consultation, follow-up consultation, procedure or physical therapy session.
+[2026-02-22T23:37:09.480142+00:00] PATIENT: I’d like to book a follow-up consultation.
+[2026-02-22T23:37:19.311659+00:00] AGENT: Perfect. Would you like to see a specific provider for your follow-up?
+[2026-02-22T23:37:20.028899+00:00] PATIENT: Yes, I’d like to see Dr. Smith.
+[2026-02-22T23:37:35.353450+00:00] AGENT: I don't see Dr. Smith listed at Pivot Point Orthopedics, the available providers for follow-up. Consultations are Dr. Dudy Hower, Dr. Doug Ross.
+[2026-02-22T23:37:36.158916+00:00] PATIENT: Okay, please book me with Dr. Dudy Hower next Tuesday for a follow-up.
+[2026-02-22T23:37:50.672004+00:00] AGENT: Just to confirm you'd like a follow-up consultation with Dr. Doogie Howser next Tuesday.
+[2026-02-22T23:37:51.319585+00:00] PATIENT: Yes, please go ahead and book that appointment.
+[2026-02-22T23:38:04.892371+00:00] AGENT: Doctor, Doogie Howser has an opening for a follow-up consultation. Next Tuesday, February 24th, at 2:00 p.m.
+[2026-02-22T23:38:05.601769+00:00] PATIENT: Actually, that date has already passed—could you please check for next Tuesday’s availability?
+[2026-02-22T23:38:25.245799+00:00] AGENT: You're right. February 24th has already passed. Let me check for openings with Dr. Doogie Howser on the next available, Tuesday 1 moment, while I set that information.
+[2026-02-22T23:38:26.077049+00:00] PATIENT: Please let me know the next available Tuesday slot with Dr. Howser.
+[2026-02-22T23:38:43.510413+00:00] AGENT: The next available Tuesday. SWAT with Dr. Dubia Howser is March 3rd at 8. A.m. would you like to book this time? Or would you prefer 9:00 a.m. on the same day?
+[2026-02-22T23:38:44.324578+00:00] PATIENT: I’ll take the 9:00 a.m. slot on March 3rd, please.
+[2026-02-22T23:38:57.186681+00:00] AGENT: You've selected March 3rd at 9:00 a.m. with Dr. Doogie Howser for your follow-up consultation.
+[2026-02-22T23:38:58.030762+00:00] PATIENT: Thank you, please go ahead and confirm that appointment.
+[2026-02-22T23:39:11.962628+00:00] AGENT: your follow-up consultation is confirmed for Tuesday, March 3rd at 9:00 a.m.
+[2026-02-22T23:39:12.754797+00:00] PATIENT: Thank you very much for your help!
+[2026-02-22T23:39:25.846268+00:00] AGENT: Got it before you go. Would you like a text reminder for your appointment?
+[2026-02-22T23:39:26.595538+00:00] PATIENT: Yes, please send me a text reminder.
+[2026-02-22T23:39:39.010916+00:00] AGENT: You did a text reminder for your appointment soon, if you need anything else, just let me know.
+[2026-02-22T23:39:40.011708+00:00] PATIENT: Actually, can I change it to the previous Tuesday instead?
+[2026-02-22T23:39:50.250321+00:00] AGENT: I can only help with booking new appointment.
+[2026-02-22T23:39:50.982372+00:00] PATIENT: Okay, can you please tell me the next available Tuesday at 9:00 a.m.?
+[2026-02-22T23:40:07.250063+00:00] AGENT: The next available Tuesday will at 9:00 a.m. with Dr. Duty Howser is March 3rd which is already booked for you.
+[2026-02-22T23:40:07.968239+00:00] PATIENT: Can you please check for the Tuesday after March 3rd at 9:00 a.m.?
+[2026-02-22T23:40:24.846194+00:00] AGENT: Let me check availability for Dr. Duty Hower at 9:00 a.m. on the Tuesday after March, 3rd 1 moment, while I fetch that information.
+[2026-02-22T23:40:25.475112+00:00] PATIENT: Thank you, I’ll wait for your update.
+[2026-02-22T23:40:38.174833+00:00] AGENT: It looks like I wasn't able to find any openings for Dr. Doogie Howser at 9:00 a.m. on the Tuesday after March 3rd.
+[2026-02-22T23:40:38.949669+00:00] PATIENT: Can you please check if there are any openings at 10:00 a.m. that day?
+[2026-02-22T23:40:51.998940+00:00] AGENT: I wasn't able to find any openings at 10:00 a.m. for Dr. Doozie, Howser on the Tuesday after March 3rd.
+[2026-02-22T23:40:52.920912+00:00] PATIENT: Can you please check for any openings later that afternoon on that Tuesday?
+[2026-02-22T23:41:08.296485+00:00] AGENT: The next available Tuesday. Afternoon swap with Dr. Doogie Howser are March 3rd at 1:00 p.m.
+[2026-02-22T23:41:09.612572+00:00] PATIENT: March 3rd is in the past, can you please check future Tuesdays after that date?
+[2026-02-22T23:41:25.623567+00:00] AGENT: Understood let me check for available. Tuesday, afternoon swap with Dr. Dudy Howser after March 3rd, 1 mom.
+[2026-02-22T23:41:26.388144+00:00] PATIENT: Please confirm the next available Tuesday after March 3rd for an afternoon appointment.
+[2026-02-22T23:41:44.976389+00:00] AGENT: I'm not seeing any available Tuesday, afternoon appointments with Dr. Duvi Howser after March 3rd. Right now, would you like me to check other days or a different provider?
+[2026-02-22T23:41:45.623157+00:00] PATIENT: Yes, please check other days for Dr. Doogie Howser.
+[2026-02-22T23:41:57.638083+00:00] AGENT: Got it. Do you prefer afternoons on any weekday or a mornings? Also, okay.
+[2026-02-22T23:41:58.456416+00:00] PATIENT: Afternoons on any weekday, please.
+[2026-02-22T23:41:58.456514+00:00] PATIENT: Thanks, that answers my questions. Goodbye.
+[2026-02-22T23:41:58.456591+00:00] SYSTEM: call ended (max turns)
+[2026-02-22T23:42:01.873703+00:00] SYSTEM: call ended (twilio status: completed)

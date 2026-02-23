@@ -1,0 +1,35 @@
+[2026-02-22T23:56:13.823666+00:00] SYSTEM: call started
+[2026-02-22T23:56:13.823764+00:00] SYSTEM: scenario 52: Reschedule Without Cancel
+[2026-02-22T23:56:18.497705+00:00] AGENT: This call may be recorded for quality and training purposes, but Espanol.
+[2026-02-22T23:56:19.191202+00:00] PATIENT: Hi, I need to reschedule my appointment and make sure the original time is canceled.
+[2026-02-22T23:56:28.565037+00:00] AGENT: Am I speaking with John?
+[2026-02-22T23:56:29.249163+00:00] PATIENT: Yes, this is John.
+[2026-02-22T23:56:35.046129+00:00] AGENT: Got it, John.
+[2026-02-22T23:56:35.837759+00:00] PATIENT: Yes, please reschedule my appointment and confirm the old slot is canceled.
+[2026-02-22T23:56:49.848282+00:00] AGENT: I can help with that. First, can you tell me your date of birth to verify your account?
+[2026-02-22T23:56:50.593062+00:00] PATIENT: Sure, it's July 14, 1980.
+[2026-02-22T23:57:03.279613+00:00] AGENT: Got it. John, the birthday doesn't match our records, but for demo purposes. I'll accept it. How can I help you today?
+[2026-02-22T23:57:04.303174+00:00] PATIENT: Please reschedule my appointment to next Friday at 10 AM and cancel the original one.
+[2026-02-22T23:57:22.978852+00:00] AGENT: All right, let me check for an opening next Friday at 10:00 a.m. and confirm your current appointment details.
+[2026-02-22T23:57:23.789147+00:00] PATIENT: Please confirm if the original appointment is canceled once you reschedule it.
+[2026-02-22T23:57:33.303732+00:00] AGENT: Understood.
+[2026-02-22T23:57:34.843295+00:00] PATIENT: Thank you, please proceed with the reschedule and cancellation.
+[2026-02-22T23:57:53.048253+00:00] AGENT: Just to confirm, you want to move your appointment to next Friday at 10:00 a.m. Is this for a new patient consultation? A follow-up or a procedure? This helps me find the right spot for you.
+[2026-02-22T23:57:53.764572+00:00] PATIENT: It's a follow-up appointment.
+[2026-02-22T23:58:03.048498+00:00] AGENT: Got it. I'll look for a follow-up appointment. Next Friday at 10:00 a.m.
+[2026-02-22T23:58:03.901309+00:00] PATIENT: Yes, please go ahead and reschedule it.
+[2026-02-22T23:58:24.997512+00:00] AGENT: I found a follow-up appointment available next Friday. March 6th at 10:00 a.m. with Dr. Doogie Howser to confirm, you want to move your current follow-up appointment to Friday, March 6th at 10:00 a.m.
+[2026-02-22T23:58:25.917703+00:00] PATIENT: Yes, please reschedule to March 6th at 10:00 a.m. and cancel the original.
+[2026-02-22T23:58:42.481093+00:00] AGENT: Your follow-up appointment is now set for Friday March 6th at 10:00 a.m. with Dr. Doogie Howser
+[2026-02-22T23:58:43.428531+00:00] PATIENT: Thank you, can you please confirm the original appointment has been canceled?
+[2026-02-22T23:58:53.669120+00:00] AGENT: Yes, your original follow-up appointment has been canceled.
+[2026-02-22T23:58:54.373518+00:00] PATIENT: Great, thank you for confirming!
+[2026-02-22T23:59:06.985023+00:00] AGENT: Got it. Would you like a text message reminder for your new appointment?
+[2026-02-22T23:59:07.771147+00:00] PATIENT: Yes, please send me a text reminder.
+[2026-02-22T23:59:20.248499+00:00] AGENT: A text reminder for your rescheduled appointment is on its way to your phone. Let me know if you need anything else.
+[2026-02-22T23:59:20.909021+00:00] PATIENT: That's all for now, thanks for your help!
+[2026-02-22T23:59:30.427725+00:00] AGENT: got it, your appointment is set, and a reminder has been sent
+[2026-02-22T23:59:31.356021+00:00] PATIENT: Thanks again, have a great day!
+[2026-02-22T23:59:36.166957+00:00] AGENT: [no speech captured]
+[2026-02-22T23:59:36.882205+00:00] PATIENT: You too, thanks!
+[2026-02-22T23:59:36.975666+00:00] SYSTEM: call ended (twilio status: completed)
